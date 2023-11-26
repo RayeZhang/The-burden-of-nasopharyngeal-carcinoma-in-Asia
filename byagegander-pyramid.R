@@ -1,13 +1,10 @@
-# 导入所需的库
+
 library(ggplot2)
 library(dplyr)
 
-
 df<-read.table("clipboard",sep = '\t',header = T)
 
-# 为男性的发病率取负值，使其向左展开
 df$val[df$sex == "Male"] <- -df$val[df$sex == "Male"]
-
 
 ggplot(df, aes(x = age, y = val, fill = sex)) +
   geom_bar(stat = "identity") +
