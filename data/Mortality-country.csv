@@ -1,0 +1,1501 @@
+measure,Location,ARCGIS,year,Mortality Rates,upper,lower,SD
+Deaths,Afghanistan,Afghanistan,1990,0.85,1.2,0.52,0.173 
+Deaths,Afghanistan,Afghanistan,1991,0.84,1.2,0.51,0.176 
+Deaths,Afghanistan,Afghanistan,1992,0.84,1.19,0.51,0.173 
+Deaths,Afghanistan,Afghanistan,1993,0.84,1.2,0.51,0.176 
+Deaths,Afghanistan,Afghanistan,1994,0.84,1.22,0.51,0.181 
+Deaths,Afghanistan,Afghanistan,1995,0.84,1.22,0.51,0.181 
+Deaths,Afghanistan,Afghanistan,1996,0.84,1.23,0.5,0.186 
+Deaths,Afghanistan,Afghanistan,1997,0.84,1.22,0.5,0.184 
+Deaths,Afghanistan,Afghanistan,1998,0.84,1.22,0.5,0.184 
+Deaths,Afghanistan,Afghanistan,1999,0.84,1.22,0.5,0.184 
+Deaths,Afghanistan,Afghanistan,2000,0.83,1.2,0.5,0.179 
+Deaths,Afghanistan,Afghanistan,2001,0.82,1.2,0.5,0.179 
+Deaths,Afghanistan,Afghanistan,2002,0.79,1.16,0.48,0.173 
+Deaths,Afghanistan,Afghanistan,2003,0.77,1.12,0.47,0.166 
+Deaths,Afghanistan,Afghanistan,2004,0.76,1.11,0.46,0.166 
+Deaths,Afghanistan,Afghanistan,2005,0.74,1.08,0.46,0.158 
+Deaths,Afghanistan,Afghanistan,2006,0.72,1.06,0.45,0.156 
+Deaths,Afghanistan,Afghanistan,2007,0.71,1.03,0.44,0.151 
+Deaths,Afghanistan,Afghanistan,2008,0.69,1.01,0.43,0.148 
+Deaths,Afghanistan,Afghanistan,2009,0.68,0.97,0.43,0.138 
+Deaths,Afghanistan,Afghanistan,2010,0.66,0.94,0.42,0.133 
+Deaths,Afghanistan,Afghanistan,2011,0.65,0.92,0.42,0.128 
+Deaths,Afghanistan,Afghanistan,2012,0.64,0.89,0.41,0.122 
+Deaths,Afghanistan,Afghanistan,2013,0.63,0.87,0.41,0.117 
+Deaths,Afghanistan,Afghanistan,2014,0.62,0.86,0.4,0.117 
+Deaths,Afghanistan,Afghanistan,2015,0.61,0.85,0.4,0.115 
+Deaths,Afghanistan,Afghanistan,2016,0.61,0.84,0.39,0.115 
+Deaths,Afghanistan,Afghanistan,2017,0.6,0.84,0.39,0.115 
+Deaths,Afghanistan,Afghanistan,2018,0.6,0.83,0.39,0.112 
+Deaths,Afghanistan,Afghanistan,2019,0.59,0.82,0.39,0.110 
+Deaths,Armenia,Armenia,1990,0.25,0.28,0.22,0.015 
+Deaths,Armenia,Armenia,1991,0.25,0.29,0.22,0.018 
+Deaths,Armenia,Armenia,1992,0.27,0.32,0.23,0.023 
+Deaths,Armenia,Armenia,1993,0.28,0.33,0.23,0.026 
+Deaths,Armenia,Armenia,1994,0.27,0.33,0.23,0.026 
+Deaths,Armenia,Armenia,1995,0.26,0.3,0.23,0.018 
+Deaths,Armenia,Armenia,1996,0.25,0.29,0.22,0.018 
+Deaths,Armenia,Armenia,1997,0.24,0.27,0.22,0.013 
+Deaths,Armenia,Armenia,1998,0.23,0.26,0.21,0.013 
+Deaths,Armenia,Armenia,1999,0.23,0.25,0.21,0.010 
+Deaths,Armenia,Armenia,2000,0.22,0.25,0.2,0.013 
+Deaths,Armenia,Armenia,2001,0.22,0.25,0.2,0.013 
+Deaths,Armenia,Armenia,2002,0.22,0.25,0.2,0.013 
+Deaths,Armenia,Armenia,2003,0.23,0.25,0.2,0.013 
+Deaths,Armenia,Armenia,2004,0.23,0.25,0.21,0.010 
+Deaths,Armenia,Armenia,2005,0.24,0.26,0.22,0.010 
+Deaths,Armenia,Armenia,2006,0.24,0.26,0.23,0.008 
+Deaths,Armenia,Armenia,2007,0.24,0.26,0.22,0.010 
+Deaths,Armenia,Armenia,2008,0.24,0.26,0.22,0.010 
+Deaths,Armenia,Armenia,2009,0.23,0.25,0.22,0.008 
+Deaths,Armenia,Armenia,2010,0.24,0.25,0.22,0.008 
+Deaths,Armenia,Armenia,2011,0.24,0.26,0.22,0.010 
+Deaths,Armenia,Armenia,2012,0.24,0.25,0.22,0.008 
+Deaths,Armenia,Armenia,2013,0.23,0.25,0.22,0.008 
+Deaths,Armenia,Armenia,2014,0.24,0.26,0.22,0.010 
+Deaths,Armenia,Armenia,2015,0.22,0.24,0.21,0.008 
+Deaths,Armenia,Armenia,2016,0.21,0.23,0.2,0.008 
+Deaths,Armenia,Armenia,2017,0.21,0.24,0.19,0.013 
+Deaths,Armenia,Armenia,2018,0.22,0.25,0.19,0.015 
+Deaths,Armenia,Armenia,2019,0.21,0.26,0.18,0.020 
+Deaths,Azerbaijan,Azerbaijan,1990,0.14,0.16,0.12,0.010 
+Deaths,Azerbaijan,Azerbaijan,1991,0.14,0.16,0.12,0.010 
+Deaths,Azerbaijan,Azerbaijan,1992,0.15,0.18,0.13,0.013 
+Deaths,Azerbaijan,Azerbaijan,1993,0.16,0.18,0.13,0.013 
+Deaths,Azerbaijan,Azerbaijan,1994,0.16,0.19,0.13,0.015 
+Deaths,Azerbaijan,Azerbaijan,1995,0.15,0.18,0.13,0.013 
+Deaths,Azerbaijan,Azerbaijan,1996,0.15,0.17,0.13,0.010 
+Deaths,Azerbaijan,Azerbaijan,1997,0.14,0.17,0.13,0.010 
+Deaths,Azerbaijan,Azerbaijan,1998,0.14,0.16,0.12,0.010 
+Deaths,Azerbaijan,Azerbaijan,1999,0.14,0.16,0.12,0.010 
+Deaths,Azerbaijan,Azerbaijan,2000,0.14,0.16,0.13,0.008 
+Deaths,Azerbaijan,Azerbaijan,2001,0.14,0.16,0.13,0.008 
+Deaths,Azerbaijan,Azerbaijan,2002,0.14,0.16,0.13,0.008 
+Deaths,Azerbaijan,Azerbaijan,2003,0.15,0.17,0.14,0.008 
+Deaths,Azerbaijan,Azerbaijan,2004,0.18,0.2,0.16,0.010 
+Deaths,Azerbaijan,Azerbaijan,2005,0.19,0.21,0.17,0.010 
+Deaths,Azerbaijan,Azerbaijan,2006,0.21,0.23,0.18,0.013 
+Deaths,Azerbaijan,Azerbaijan,2007,0.23,0.26,0.21,0.013 
+Deaths,Azerbaijan,Azerbaijan,2008,0.22,0.25,0.2,0.013 
+Deaths,Azerbaijan,Azerbaijan,2009,0.21,0.24,0.19,0.013 
+Deaths,Azerbaijan,Azerbaijan,2010,0.21,0.24,0.19,0.013 
+Deaths,Azerbaijan,Azerbaijan,2011,0.21,0.23,0.18,0.013 
+Deaths,Azerbaijan,Azerbaijan,2012,0.2,0.23,0.18,0.013 
+Deaths,Azerbaijan,Azerbaijan,2013,0.2,0.22,0.17,0.013 
+Deaths,Azerbaijan,Azerbaijan,2014,0.19,0.22,0.17,0.013 
+Deaths,Azerbaijan,Azerbaijan,2015,0.19,0.22,0.16,0.015 
+Deaths,Azerbaijan,Azerbaijan,2016,0.18,0.22,0.16,0.015 
+Deaths,Azerbaijan,Azerbaijan,2017,0.18,0.22,0.16,0.015 
+Deaths,Azerbaijan,Azerbaijan,2018,0.18,0.21,0.15,0.015 
+Deaths,Azerbaijan,Azerbaijan,2019,0.18,0.22,0.14,0.020 
+Deaths,Bahrain,Bahrain,1990,0.7,0.86,0.57,0.074 
+Deaths,Bahrain,Bahrain,1991,0.69,0.85,0.56,0.074 
+Deaths,Bahrain,Bahrain,1992,0.67,0.83,0.54,0.074 
+Deaths,Bahrain,Bahrain,1993,0.64,0.79,0.51,0.071 
+Deaths,Bahrain,Bahrain,1994,0.63,0.77,0.5,0.069 
+Deaths,Bahrain,Bahrain,1995,0.62,0.76,0.5,0.066 
+Deaths,Bahrain,Bahrain,1996,0.61,0.75,0.49,0.066 
+Deaths,Bahrain,Bahrain,1997,0.63,0.74,0.53,0.054 
+Deaths,Bahrain,Bahrain,1998,0.57,0.68,0.48,0.051 
+Deaths,Bahrain,Bahrain,1999,0.63,0.74,0.53,0.054 
+Deaths,Bahrain,Bahrain,2000,0.58,0.67,0.5,0.043 
+Deaths,Bahrain,Bahrain,2001,0.49,0.57,0.41,0.041 
+Deaths,Bahrain,Bahrain,2002,0.56,0.65,0.48,0.043 
+Deaths,Bahrain,Bahrain,2003,0.63,0.74,0.53,0.054 
+Deaths,Bahrain,Bahrain,2004,0.65,0.76,0.55,0.054 
+Deaths,Bahrain,Bahrain,2005,0.64,0.74,0.55,0.048 
+Deaths,Bahrain,Bahrain,2006,0.59,0.69,0.51,0.046 
+Deaths,Bahrain,Bahrain,2007,0.53,0.62,0.46,0.041 
+Deaths,Bahrain,Bahrain,2008,0.47,0.54,0.4,0.036 
+Deaths,Bahrain,Bahrain,2009,0.44,0.51,0.38,0.033 
+Deaths,Bahrain,Bahrain,2010,0.41,0.47,0.34,0.033 
+Deaths,Bahrain,Bahrain,2011,0.37,0.43,0.32,0.028 
+Deaths,Bahrain,Bahrain,2012,0.36,0.43,0.31,0.031 
+Deaths,Bahrain,Bahrain,2013,0.35,0.43,0.29,0.036 
+Deaths,Bahrain,Bahrain,2014,0.32,0.4,0.26,0.036 
+Deaths,Bahrain,Bahrain,2015,0.32,0.4,0.25,0.038 
+Deaths,Bahrain,Bahrain,2016,0.32,0.41,0.25,0.041 
+Deaths,Bahrain,Bahrain,2017,0.32,0.42,0.25,0.043 
+Deaths,Bahrain,Bahrain,2018,0.32,0.41,0.25,0.041 
+Deaths,Bahrain,Bahrain,2019,0.33,0.42,0.25,0.043 
+Deaths,Bangladesh,Bangladesh,1990,1.49,1.83,1.18,0.166 
+Deaths,Bangladesh,Bangladesh,1991,1.39,1.65,1.12,0.135 
+Deaths,Bangladesh,Bangladesh,1992,1.37,1.64,1.12,0.133 
+Deaths,Bangladesh,Bangladesh,1993,1.35,1.62,1.1,0.133 
+Deaths,Bangladesh,Bangladesh,1994,1.31,1.56,1.06,0.128 
+Deaths,Bangladesh,Bangladesh,1995,1.31,1.56,1.07,0.125 
+Deaths,Bangladesh,Bangladesh,1996,1.27,1.51,1.05,0.117 
+Deaths,Bangladesh,Bangladesh,1997,1.22,1.45,0.99,0.117 
+Deaths,Bangladesh,Bangladesh,1998,1.18,1.4,0.96,0.112 
+Deaths,Bangladesh,Bangladesh,1999,1.14,1.37,0.94,0.110 
+Deaths,Bangladesh,Bangladesh,2000,1.15,1.37,0.94,0.110 
+Deaths,Bangladesh,Bangladesh,2001,1.12,1.36,0.92,0.112 
+Deaths,Bangladesh,Bangladesh,2002,1.12,1.36,0.91,0.115 
+Deaths,Bangladesh,Bangladesh,2003,1.11,1.36,0.9,0.117 
+Deaths,Bangladesh,Bangladesh,2004,1.09,1.35,0.88,0.120 
+Deaths,Bangladesh,Bangladesh,2005,1.1,1.37,0.87,0.128 
+Deaths,Bangladesh,Bangladesh,2006,1.1,1.4,0.86,0.138 
+Deaths,Bangladesh,Bangladesh,2007,1.08,1.39,0.84,0.140 
+Deaths,Bangladesh,Bangladesh,2008,1.05,1.36,0.81,0.140 
+Deaths,Bangladesh,Bangladesh,2009,1.02,1.35,0.8,0.140 
+Deaths,Bangladesh,Bangladesh,2010,1.01,1.32,0.78,0.138 
+Deaths,Bangladesh,Bangladesh,2011,0.96,1.27,0.75,0.133 
+Deaths,Bangladesh,Bangladesh,2012,0.93,1.25,0.72,0.135 
+Deaths,Bangladesh,Bangladesh,2013,0.91,1.23,0.7,0.135 
+Deaths,Bangladesh,Bangladesh,2014,0.9,1.21,0.68,0.135 
+Deaths,Bangladesh,Bangladesh,2015,0.88,1.2,0.65,0.140 
+Deaths,Bangladesh,Bangladesh,2016,0.88,1.22,0.65,0.145 
+Deaths,Bangladesh,Bangladesh,2017,0.88,1.23,0.64,0.151 
+Deaths,Bangladesh,Bangladesh,2018,0.88,1.22,0.63,0.151 
+Deaths,Bangladesh,Bangladesh,2019,0.87,1.22,0.62,0.153 
+Deaths,Bhutan,Bhutan,1990,1.26,1.73,0.84,0.227 
+Deaths,Bhutan,Bhutan,1991,1.25,1.71,0.83,0.224 
+Deaths,Bhutan,Bhutan,1992,1.24,1.7,0.84,0.219 
+Deaths,Bhutan,Bhutan,1993,1.22,1.67,0.84,0.212 
+Deaths,Bhutan,Bhutan,1994,1.2,1.63,0.84,0.202 
+Deaths,Bhutan,Bhutan,1995,1.18,1.58,0.83,0.191 
+Deaths,Bhutan,Bhutan,1996,1.14,1.52,0.8,0.184 
+Deaths,Bhutan,Bhutan,1997,1.12,1.47,0.79,0.173 
+Deaths,Bhutan,Bhutan,1998,1.1,1.43,0.79,0.163 
+Deaths,Bhutan,Bhutan,1999,1.05,1.36,0.75,0.156 
+Deaths,Bhutan,Bhutan,2000,1.05,1.34,0.76,0.148 
+Deaths,Bhutan,Bhutan,2001,1.02,1.31,0.75,0.143 
+Deaths,Bhutan,Bhutan,2002,1,1.28,0.73,0.140 
+Deaths,Bhutan,Bhutan,2003,0.99,1.27,0.72,0.140 
+Deaths,Bhutan,Bhutan,2004,0.97,1.25,0.71,0.138 
+Deaths,Bhutan,Bhutan,2005,0.96,1.24,0.7,0.138 
+Deaths,Bhutan,Bhutan,2006,0.94,1.22,0.69,0.135 
+Deaths,Bhutan,Bhutan,2007,0.93,1.21,0.69,0.133 
+Deaths,Bhutan,Bhutan,2008,0.92,1.2,0.68,0.133 
+Deaths,Bhutan,Bhutan,2009,0.92,1.2,0.67,0.135 
+Deaths,Bhutan,Bhutan,2010,0.91,1.19,0.66,0.135 
+Deaths,Bhutan,Bhutan,2011,0.9,1.19,0.65,0.138 
+Deaths,Bhutan,Bhutan,2012,0.9,1.18,0.64,0.138 
+Deaths,Bhutan,Bhutan,2013,0.89,1.19,0.63,0.143 
+Deaths,Bhutan,Bhutan,2014,0.89,1.19,0.63,0.143 
+Deaths,Bhutan,Bhutan,2015,0.88,1.18,0.62,0.143 
+Deaths,Bhutan,Bhutan,2016,0.88,1.19,0.62,0.145 
+Deaths,Bhutan,Bhutan,2017,0.87,1.18,0.61,0.145 
+Deaths,Bhutan,Bhutan,2018,0.87,1.19,0.61,0.148 
+Deaths,Bhutan,Bhutan,2019,0.86,1.18,0.6,0.148 
+Deaths,Brunei Darussalam,Brunei,1990,3.66,4.36,3.07,0.329 
+Deaths,Brunei Darussalam,Brunei,1991,3.54,4.21,2.99,0.311 
+Deaths,Brunei Darussalam,Brunei,1992,3.44,4.08,2.91,0.298 
+Deaths,Brunei Darussalam,Brunei,1993,3.33,3.95,2.82,0.288 
+Deaths,Brunei Darussalam,Brunei,1994,3.15,3.67,2.69,0.250 
+Deaths,Brunei Darussalam,Brunei,1995,3.04,3.48,2.62,0.219 
+Deaths,Brunei Darussalam,Brunei,1996,2.91,3.32,2.53,0.202 
+Deaths,Brunei Darussalam,Brunei,1997,2.86,3.27,2.51,0.194 
+Deaths,Brunei Darussalam,Brunei,1998,2.82,3.22,2.47,0.191 
+Deaths,Brunei Darussalam,Brunei,1999,2.86,3.27,2.51,0.194 
+Deaths,Brunei Darussalam,Brunei,2000,2.91,3.35,2.57,0.199 
+Deaths,Brunei Darussalam,Brunei,2001,2.89,3.31,2.54,0.196 
+Deaths,Brunei Darussalam,Brunei,2002,2.92,3.32,2.58,0.189 
+Deaths,Brunei Darussalam,Brunei,2003,3.01,3.41,2.65,0.194 
+Deaths,Brunei Darussalam,Brunei,2004,3.06,3.48,2.68,0.204 
+Deaths,Brunei Darussalam,Brunei,2005,3.09,3.51,2.71,0.204 
+Deaths,Brunei Darussalam,Brunei,2006,3.1,3.51,2.72,0.202 
+Deaths,Brunei Darussalam,Brunei,2007,3.06,3.47,2.7,0.196 
+Deaths,Brunei Darussalam,Brunei,2008,3.04,3.44,2.7,0.189 
+Deaths,Brunei Darussalam,Brunei,2009,3.1,3.5,2.74,0.194 
+Deaths,Brunei Darussalam,Brunei,2010,3.16,3.57,2.79,0.199 
+Deaths,Brunei Darussalam,Brunei,2011,3.2,3.61,2.82,0.202 
+Deaths,Brunei Darussalam,Brunei,2012,3.11,3.5,2.75,0.191 
+Deaths,Brunei Darussalam,Brunei,2013,3.1,3.49,2.74,0.191 
+Deaths,Brunei Darussalam,Brunei,2014,3.07,3.45,2.7,0.191 
+Deaths,Brunei Darussalam,Brunei,2015,3.03,3.43,2.66,0.196 
+Deaths,Brunei Darussalam,Brunei,2016,3.01,3.43,2.61,0.209 
+Deaths,Brunei Darussalam,Brunei,2017,2.98,3.42,2.56,0.219 
+Deaths,Brunei Darussalam,Brunei,2018,2.95,3.42,2.52,0.230 
+Deaths,Brunei Darussalam,Brunei,2019,2.91,3.41,2.48,0.237 
+Deaths,Cambodia,Cambodia,1990,2.28,2.79,1.71,0.276 
+Deaths,Cambodia,Cambodia,1991,2.26,2.75,1.7,0.268 
+Deaths,Cambodia,Cambodia,1992,2.25,2.74,1.7,0.265 
+Deaths,Cambodia,Cambodia,1993,2.25,2.72,1.71,0.258 
+Deaths,Cambodia,Cambodia,1994,2.26,2.73,1.73,0.255 
+Deaths,Cambodia,Cambodia,1995,2.26,2.73,1.74,0.253 
+Deaths,Cambodia,Cambodia,1996,2.25,2.7,1.73,0.247 
+Deaths,Cambodia,Cambodia,1997,2.23,2.68,1.73,0.242 
+Deaths,Cambodia,Cambodia,1998,2.22,2.68,1.71,0.247 
+Deaths,Cambodia,Cambodia,1999,2.2,2.65,1.69,0.245 
+Deaths,Cambodia,Cambodia,2000,2.17,2.64,1.68,0.245 
+Deaths,Cambodia,Cambodia,2001,2.14,2.6,1.66,0.240 
+Deaths,Cambodia,Cambodia,2002,2.1,2.56,1.64,0.235 
+Deaths,Cambodia,Cambodia,2003,2.07,2.52,1.62,0.230 
+Deaths,Cambodia,Cambodia,2004,2.05,2.5,1.62,0.224 
+Deaths,Cambodia,Cambodia,2005,2.03,2.49,1.61,0.224 
+Deaths,Cambodia,Cambodia,2006,2.01,2.46,1.59,0.222 
+Deaths,Cambodia,Cambodia,2007,2,2.45,1.6,0.217 
+Deaths,Cambodia,Cambodia,2008,1.99,2.44,1.59,0.217 
+Deaths,Cambodia,Cambodia,2009,1.98,2.46,1.58,0.224 
+Deaths,Cambodia,Cambodia,2010,1.99,2.47,1.59,0.224 
+Deaths,Cambodia,Cambodia,2011,1.99,2.47,1.58,0.227 
+Deaths,Cambodia,Cambodia,2012,1.98,2.48,1.56,0.235 
+Deaths,Cambodia,Cambodia,2013,1.98,2.47,1.55,0.235 
+Deaths,Cambodia,Cambodia,2014,1.97,2.47,1.53,0.240 
+Deaths,Cambodia,Cambodia,2015,1.97,2.48,1.52,0.245 
+Deaths,Cambodia,Cambodia,2016,1.97,2.49,1.51,0.250 
+Deaths,Cambodia,Cambodia,2017,1.97,2.48,1.5,0.250 
+Deaths,Cambodia,Cambodia,2018,1.98,2.48,1.49,0.253 
+Deaths,Cambodia,Cambodia,2019,1.98,2.5,1.48,0.260 
+Deaths,China,China,1990,2.9,3.3,2.51,0.202 
+Deaths,China,China,1991,2.87,3.24,2.52,0.184 
+Deaths,China,China,1992,2.79,3.16,2.44,0.184 
+Deaths,China,China,1993,2.73,3.04,2.42,0.158 
+Deaths,China,China,1994,2.65,2.95,2.36,0.151 
+Deaths,China,China,1995,2.59,2.86,2.33,0.135 
+Deaths,China,China,1996,2.51,2.76,2.27,0.125 
+Deaths,China,China,1997,2.45,2.68,2.23,0.115 
+Deaths,China,China,1998,2.43,2.66,2.21,0.115 
+Deaths,China,China,1999,2.41,2.63,2.2,0.110 
+Deaths,China,China,2000,2.37,2.59,2.17,0.107 
+Deaths,China,China,2001,2.26,2.48,2.06,0.107 
+Deaths,China,China,2002,2.17,2.39,1.97,0.107 
+Deaths,China,China,2003,2.07,2.28,1.89,0.099 
+Deaths,China,China,2004,2,2.21,1.83,0.097 
+Deaths,China,China,2005,1.93,2.13,1.76,0.094 
+Deaths,China,China,2006,1.84,2.01,1.69,0.082 
+Deaths,China,China,2007,1.77,1.93,1.62,0.079 
+Deaths,China,China,2008,1.73,1.89,1.57,0.082 
+Deaths,China,China,2009,1.69,1.85,1.55,0.077 
+Deaths,China,China,2010,1.66,1.82,1.49,0.084 
+Deaths,China,China,2011,1.62,1.78,1.45,0.084 
+Deaths,China,China,2012,1.58,1.75,1.43,0.082 
+Deaths,China,China,2013,1.54,1.7,1.38,0.082 
+Deaths,China,China,2014,1.51,1.7,1.33,0.094 
+Deaths,China,China,2015,1.49,1.67,1.3,0.094 
+Deaths,China,China,2016,1.48,1.69,1.29,0.102 
+Deaths,China,China,2017,1.46,1.67,1.26,0.105 
+Deaths,China,China,2018,1.44,1.69,1.23,0.117 
+Deaths,China,China,2019,1.43,1.69,1.19,0.128 
+Deaths,Cyprus,Cyprus,1990,0.19,0.21,0.16,0.013 
+Deaths,Cyprus,Cyprus,1991,0.19,0.21,0.16,0.013 
+Deaths,Cyprus,Cyprus,1992,0.19,0.21,0.16,0.013 
+Deaths,Cyprus,Cyprus,1993,0.19,0.21,0.16,0.013 
+Deaths,Cyprus,Cyprus,1994,0.18,0.2,0.16,0.010 
+Deaths,Cyprus,Cyprus,1995,0.18,0.2,0.16,0.010 
+Deaths,Cyprus,Cyprus,1996,0.17,0.19,0.16,0.008 
+Deaths,Cyprus,Cyprus,1997,0.17,0.19,0.15,0.010 
+Deaths,Cyprus,Cyprus,1998,0.17,0.19,0.15,0.010 
+Deaths,Cyprus,Cyprus,1999,0.16,0.18,0.15,0.008 
+Deaths,Cyprus,Cyprus,2000,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2001,0.16,0.17,0.14,0.008 
+Deaths,Cyprus,Cyprus,2002,0.15,0.17,0.14,0.008 
+Deaths,Cyprus,Cyprus,2003,0.15,0.17,0.14,0.008 
+Deaths,Cyprus,Cyprus,2004,0.16,0.17,0.14,0.008 
+Deaths,Cyprus,Cyprus,2005,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2006,0.16,0.18,0.15,0.008 
+Deaths,Cyprus,Cyprus,2007,0.16,0.18,0.15,0.008 
+Deaths,Cyprus,Cyprus,2008,0.16,0.18,0.15,0.008 
+Deaths,Cyprus,Cyprus,2009,0.16,0.18,0.15,0.008 
+Deaths,Cyprus,Cyprus,2010,0.16,0.17,0.14,0.008 
+Deaths,Cyprus,Cyprus,2011,0.16,0.17,0.14,0.008 
+Deaths,Cyprus,Cyprus,2012,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2013,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2014,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2015,0.17,0.19,0.15,0.010 
+Deaths,Cyprus,Cyprus,2016,0.16,0.19,0.14,0.013 
+Deaths,Cyprus,Cyprus,2017,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2018,0.16,0.18,0.14,0.010 
+Deaths,Cyprus,Cyprus,2019,0.16,0.19,0.13,0.015 
+Deaths,Democratic People's Republic of Korea,North Korea,1990,2,2.72,1.43,0.329 
+Deaths,Democratic People's Republic of Korea,North Korea,1991,1.99,2.71,1.45,0.321 
+Deaths,Democratic People's Republic of Korea,North Korea,1992,1.99,2.7,1.46,0.316 
+Deaths,Democratic People's Republic of Korea,North Korea,1993,1.99,2.72,1.46,0.321 
+Deaths,Democratic People's Republic of Korea,North Korea,1994,1.98,2.73,1.47,0.321 
+Deaths,Democratic People's Republic of Korea,North Korea,1995,1.98,2.72,1.46,0.321 
+Deaths,Democratic People's Republic of Korea,North Korea,1996,1.98,2.7,1.45,0.319 
+Deaths,Democratic People's Republic of Korea,North Korea,1997,1.97,2.68,1.45,0.314 
+Deaths,Democratic People's Republic of Korea,North Korea,1998,1.97,2.65,1.45,0.306 
+Deaths,Democratic People's Republic of Korea,North Korea,1999,1.96,2.61,1.45,0.296 
+Deaths,Democratic People's Republic of Korea,North Korea,2000,1.94,2.59,1.46,0.288 
+Deaths,Democratic People's Republic of Korea,North Korea,2001,1.92,2.54,1.42,0.286 
+Deaths,Democratic People's Republic of Korea,North Korea,2002,1.89,2.5,1.43,0.273 
+Deaths,Democratic People's Republic of Korea,North Korea,2003,1.87,2.46,1.39,0.273 
+Deaths,Democratic People's Republic of Korea,North Korea,2004,1.86,2.44,1.4,0.265 
+Deaths,Democratic People's Republic of Korea,North Korea,2005,1.84,2.41,1.42,0.253 
+Deaths,Democratic People's Republic of Korea,North Korea,2006,1.83,2.39,1.42,0.247 
+Deaths,Democratic People's Republic of Korea,North Korea,2007,1.81,2.35,1.4,0.242 
+Deaths,Democratic People's Republic of Korea,North Korea,2008,1.8,2.31,1.38,0.237 
+Deaths,Democratic People's Republic of Korea,North Korea,2009,1.78,2.31,1.36,0.242 
+Deaths,Democratic People's Republic of Korea,North Korea,2010,1.76,2.28,1.34,0.240 
+Deaths,Democratic People's Republic of Korea,North Korea,2011,1.75,2.25,1.32,0.237 
+Deaths,Democratic People's Republic of Korea,North Korea,2012,1.73,2.24,1.29,0.242 
+Deaths,Democratic People's Republic of Korea,North Korea,2013,1.71,2.21,1.27,0.240 
+Deaths,Democratic People's Republic of Korea,North Korea,2014,1.69,2.2,1.26,0.240 
+Deaths,Democratic People's Republic of Korea,North Korea,2015,1.67,2.16,1.26,0.230 
+Deaths,Democratic People's Republic of Korea,North Korea,2016,1.65,2.14,1.25,0.227 
+Deaths,Democratic People's Republic of Korea,North Korea,2017,1.63,2.11,1.23,0.224 
+Deaths,Democratic People's Republic of Korea,North Korea,2018,1.61,2.08,1.22,0.219 
+Deaths,Democratic People's Republic of Korea,North Korea,2019,1.6,2.05,1.21,0.214 
+Deaths,Georgia,Georgia,1990,0.35,0.4,0.29,0.028 
+Deaths,Georgia,Georgia,1991,0.35,0.41,0.29,0.031 
+Deaths,Georgia,Georgia,1992,0.36,0.42,0.3,0.031 
+Deaths,Georgia,Georgia,1993,0.35,0.41,0.3,0.028 
+Deaths,Georgia,Georgia,1994,0.36,0.41,0.31,0.026 
+Deaths,Georgia,Georgia,1995,0.34,0.38,0.3,0.020 
+Deaths,Georgia,Georgia,1996,0.33,0.37,0.29,0.020 
+Deaths,Georgia,Georgia,1997,0.34,0.38,0.3,0.020 
+Deaths,Georgia,Georgia,1998,0.36,0.41,0.32,0.023 
+Deaths,Georgia,Georgia,1999,0.38,0.43,0.34,0.023 
+Deaths,Georgia,Georgia,2000,0.3,0.34,0.27,0.018 
+Deaths,Georgia,Georgia,2001,0.27,0.3,0.24,0.015 
+Deaths,Georgia,Georgia,2002,0.29,0.32,0.26,0.015 
+Deaths,Georgia,Georgia,2003,0.29,0.32,0.26,0.015 
+Deaths,Georgia,Georgia,2004,0.3,0.33,0.27,0.015 
+Deaths,Georgia,Georgia,2005,0.26,0.29,0.24,0.013 
+Deaths,Georgia,Georgia,2006,0.25,0.28,0.23,0.013 
+Deaths,Georgia,Georgia,2007,0.26,0.29,0.24,0.013 
+Deaths,Georgia,Georgia,2008,0.28,0.31,0.25,0.015 
+Deaths,Georgia,Georgia,2009,0.3,0.34,0.27,0.018 
+Deaths,Georgia,Georgia,2010,0.31,0.34,0.28,0.015 
+Deaths,Georgia,Georgia,2011,0.31,0.35,0.28,0.018 
+Deaths,Georgia,Georgia,2012,0.32,0.36,0.29,0.018 
+Deaths,Georgia,Georgia,2013,0.3,0.33,0.27,0.015 
+Deaths,Georgia,Georgia,2014,0.27,0.3,0.24,0.015 
+Deaths,Georgia,Georgia,2015,0.28,0.31,0.26,0.013 
+Deaths,Georgia,Georgia,2016,0.29,0.32,0.26,0.015 
+Deaths,Georgia,Georgia,2017,0.29,0.33,0.26,0.018 
+Deaths,Georgia,Georgia,2018,0.29,0.34,0.25,0.023 
+Deaths,Georgia,Georgia,2019,0.29,0.35,0.24,0.028 
+Deaths,India,India,1990,1.29,1.52,1.09,0.110 
+Deaths,India,India,1991,1.28,1.51,1.09,0.107 
+Deaths,India,India,1992,1.27,1.49,1.08,0.105 
+Deaths,India,India,1993,1.25,1.45,1.08,0.094 
+Deaths,India,India,1994,1.23,1.42,1.05,0.094 
+Deaths,India,India,1995,1.19,1.37,1.03,0.087 
+Deaths,India,India,1996,1.2,1.38,1.03,0.089 
+Deaths,India,India,1997,1.22,1.41,1.07,0.087 
+Deaths,India,India,1998,1.19,1.36,1.03,0.084 
+Deaths,India,India,1999,1.12,1.29,0.99,0.077 
+Deaths,India,India,2000,1.07,1.22,0.94,0.071 
+Deaths,India,India,2001,1.05,1.19,0.93,0.066 
+Deaths,India,India,2002,1.01,1.14,0.9,0.061 
+Deaths,India,India,2003,0.97,1.09,0.87,0.056 
+Deaths,India,India,2004,0.91,1.01,0.82,0.048 
+Deaths,India,India,2005,0.92,1.02,0.84,0.046 
+Deaths,India,India,2006,0.93,1.03,0.84,0.048 
+Deaths,India,India,2007,0.96,1.06,0.86,0.051 
+Deaths,India,India,2008,0.95,1.06,0.86,0.051 
+Deaths,India,India,2009,0.94,1.04,0.84,0.051 
+Deaths,India,India,2010,0.94,1.04,0.85,0.048 
+Deaths,India,India,2011,0.94,1.04,0.85,0.048 
+Deaths,India,India,2012,0.92,1.02,0.83,0.048 
+Deaths,India,India,2013,0.95,1.06,0.85,0.054 
+Deaths,India,India,2014,0.93,1.02,0.83,0.048 
+Deaths,India,India,2015,0.95,1.04,0.85,0.048 
+Deaths,India,India,2016,0.94,1.04,0.84,0.051 
+Deaths,India,India,2017,0.93,1.05,0.82,0.059 
+Deaths,India,India,2018,0.93,1.07,0.8,0.069 
+Deaths,India,India,2019,0.92,1.09,0.79,0.077 
+Deaths,Indonesia,Indonesia,1990,1.49,1.76,1.25,0.130 
+Deaths,Indonesia,Indonesia,1991,1.49,1.75,1.25,0.128 
+Deaths,Indonesia,Indonesia,1992,1.5,1.76,1.27,0.125 
+Deaths,Indonesia,Indonesia,1993,1.5,1.78,1.26,0.133 
+Deaths,Indonesia,Indonesia,1994,1.51,1.77,1.26,0.130 
+Deaths,Indonesia,Indonesia,1995,1.51,1.78,1.27,0.130 
+Deaths,Indonesia,Indonesia,1996,1.52,1.79,1.27,0.133 
+Deaths,Indonesia,Indonesia,1997,1.53,1.81,1.29,0.133 
+Deaths,Indonesia,Indonesia,1998,1.54,1.81,1.29,0.133 
+Deaths,Indonesia,Indonesia,1999,1.55,1.84,1.29,0.140 
+Deaths,Indonesia,Indonesia,2000,1.55,1.86,1.3,0.143 
+Deaths,Indonesia,Indonesia,2001,1.55,1.84,1.29,0.140 
+Deaths,Indonesia,Indonesia,2002,1.54,1.82,1.28,0.138 
+Deaths,Indonesia,Indonesia,2003,1.54,1.81,1.27,0.138 
+Deaths,Indonesia,Indonesia,2004,1.54,1.82,1.28,0.138 
+Deaths,Indonesia,Indonesia,2005,1.54,1.83,1.27,0.143 
+Deaths,Indonesia,Indonesia,2006,1.54,1.82,1.26,0.143 
+Deaths,Indonesia,Indonesia,2007,1.55,1.84,1.26,0.148 
+Deaths,Indonesia,Indonesia,2008,1.54,1.83,1.25,0.148 
+Deaths,Indonesia,Indonesia,2009,1.53,1.84,1.25,0.151 
+Deaths,Indonesia,Indonesia,2010,1.52,1.81,1.26,0.140 
+Deaths,Indonesia,Indonesia,2011,1.51,1.82,1.24,0.148 
+Deaths,Indonesia,Indonesia,2012,1.5,1.79,1.24,0.140 
+Deaths,Indonesia,Indonesia,2013,1.49,1.79,1.21,0.148 
+Deaths,Indonesia,Indonesia,2014,1.47,1.81,1.2,0.156 
+Deaths,Indonesia,Indonesia,2015,1.46,1.79,1.18,0.156 
+Deaths,Indonesia,Indonesia,2016,1.45,1.81,1.17,0.163 
+Deaths,Indonesia,Indonesia,2017,1.45,1.79,1.15,0.163 
+Deaths,Indonesia,Indonesia,2018,1.43,1.79,1.12,0.171 
+Deaths,Indonesia,Indonesia,2019,1.42,1.81,1.13,0.173 
+Deaths,Iran (Islamic Republic of),Iran,1990,0.27,0.31,0.24,0.018 
+Deaths,Iran (Islamic Republic of),Iran,1991,0.27,0.31,0.24,0.018 
+Deaths,Iran (Islamic Republic of),Iran,1992,0.27,0.3,0.24,0.015 
+Deaths,Iran (Islamic Republic of),Iran,1993,0.27,0.3,0.23,0.018 
+Deaths,Iran (Islamic Republic of),Iran,1994,0.26,0.29,0.24,0.013 
+Deaths,Iran (Islamic Republic of),Iran,1995,0.26,0.29,0.23,0.015 
+Deaths,Iran (Islamic Republic of),Iran,1996,0.26,0.28,0.23,0.013 
+Deaths,Iran (Islamic Republic of),Iran,1997,0.25,0.28,0.23,0.013 
+Deaths,Iran (Islamic Republic of),Iran,1998,0.25,0.28,0.23,0.013 
+Deaths,Iran (Islamic Republic of),Iran,1999,0.25,0.27,0.23,0.010 
+Deaths,Iran (Islamic Republic of),Iran,2000,0.25,0.27,0.23,0.010 
+Deaths,Iran (Islamic Republic of),Iran,2001,0.24,0.26,0.22,0.010 
+Deaths,Iran (Islamic Republic of),Iran,2002,0.24,0.26,0.22,0.010 
+Deaths,Iran (Islamic Republic of),Iran,2003,0.23,0.25,0.22,0.008 
+Deaths,Iran (Islamic Republic of),Iran,2004,0.22,0.23,0.21,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2005,0.21,0.23,0.2,0.008 
+Deaths,Iran (Islamic Republic of),Iran,2006,0.21,0.22,0.2,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2007,0.2,0.21,0.19,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2008,0.2,0.21,0.19,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2009,0.19,0.2,0.18,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2010,0.19,0.2,0.18,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2011,0.19,0.2,0.17,0.008 
+Deaths,Iran (Islamic Republic of),Iran,2012,0.18,0.2,0.17,0.008 
+Deaths,Iran (Islamic Republic of),Iran,2013,0.18,0.2,0.17,0.008 
+Deaths,Iran (Islamic Republic of),Iran,2014,0.18,0.19,0.17,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2015,0.18,0.19,0.17,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2016,0.18,0.19,0.17,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2017,0.18,0.19,0.17,0.005 
+Deaths,Iran (Islamic Republic of),Iran,2018,0.18,0.19,0.16,0.008 
+Deaths,Iran (Islamic Republic of),Iran,2019,0.17,0.19,0.16,0.008 
+Deaths,Iraq,Iraq,1990,0.5,0.61,0.39,0.056 
+Deaths,Iraq,Iraq,1991,0.5,0.62,0.39,0.059 
+Deaths,Iraq,Iraq,1992,0.51,0.63,0.39,0.061 
+Deaths,Iraq,Iraq,1993,0.51,0.64,0.39,0.064 
+Deaths,Iraq,Iraq,1994,0.51,0.65,0.39,0.066 
+Deaths,Iraq,Iraq,1995,0.52,0.66,0.39,0.069 
+Deaths,Iraq,Iraq,1996,0.52,0.67,0.39,0.071 
+Deaths,Iraq,Iraq,1997,0.52,0.67,0.39,0.071 
+Deaths,Iraq,Iraq,1998,0.51,0.66,0.38,0.071 
+Deaths,Iraq,Iraq,1999,0.5,0.66,0.38,0.071 
+Deaths,Iraq,Iraq,2000,0.49,0.64,0.37,0.069 
+Deaths,Iraq,Iraq,2001,0.47,0.62,0.35,0.069 
+Deaths,Iraq,Iraq,2002,0.45,0.59,0.34,0.064 
+Deaths,Iraq,Iraq,2003,0.44,0.58,0.33,0.064 
+Deaths,Iraq,Iraq,2004,0.43,0.56,0.32,0.061 
+Deaths,Iraq,Iraq,2005,0.41,0.54,0.32,0.056 
+Deaths,Iraq,Iraq,2006,0.41,0.53,0.31,0.056 
+Deaths,Iraq,Iraq,2007,0.4,0.52,0.31,0.054 
+Deaths,Iraq,Iraq,2008,0.39,0.49,0.3,0.048 
+Deaths,Iraq,Iraq,2009,0.38,0.48,0.29,0.048 
+Deaths,Iraq,Iraq,2010,0.34,0.43,0.27,0.041 
+Deaths,Iraq,Iraq,2011,0.32,0.4,0.25,0.038 
+Deaths,Iraq,Iraq,2012,0.28,0.34,0.21,0.033 
+Deaths,Iraq,Iraq,2013,0.24,0.3,0.18,0.031 
+Deaths,Iraq,Iraq,2014,0.22,0.28,0.17,0.028 
+Deaths,Iraq,Iraq,2015,0.22,0.28,0.17,0.028 
+Deaths,Iraq,Iraq,2016,0.22,0.28,0.16,0.031 
+Deaths,Iraq,Iraq,2017,0.22,0.28,0.16,0.031 
+Deaths,Iraq,Iraq,2018,0.22,0.28,0.16,0.031 
+Deaths,Iraq,Iraq,2019,0.22,0.28,0.17,0.028 
+Deaths,Israel,Israel,1990,0.38,0.42,0.35,0.018 
+Deaths,Israel,Israel,1991,0.4,0.43,0.37,0.015 
+Deaths,Israel,Israel,1992,0.4,0.44,0.37,0.018 
+Deaths,Israel,Israel,1993,0.38,0.41,0.35,0.015 
+Deaths,Israel,Israel,1994,0.38,0.41,0.35,0.015 
+Deaths,Israel,Israel,1995,0.38,0.41,0.35,0.015 
+Deaths,Israel,Israel,1996,0.38,0.41,0.35,0.015 
+Deaths,Israel,Israel,1997,0.38,0.41,0.35,0.015 
+Deaths,Israel,Israel,1998,0.37,0.4,0.34,0.015 
+Deaths,Israel,Israel,1999,0.36,0.39,0.33,0.015 
+Deaths,Israel,Israel,2000,0.36,0.39,0.34,0.013 
+Deaths,Israel,Israel,2001,0.35,0.38,0.33,0.013 
+Deaths,Israel,Israel,2002,0.35,0.37,0.32,0.013 
+Deaths,Israel,Israel,2003,0.34,0.37,0.32,0.013 
+Deaths,Israel,Israel,2004,0.3,0.32,0.28,0.010 
+Deaths,Israel,Israel,2005,0.29,0.31,0.26,0.013 
+Deaths,Israel,Israel,2006,0.27,0.29,0.25,0.010 
+Deaths,Israel,Israel,2007,0.26,0.28,0.24,0.010 
+Deaths,Israel,Israel,2008,0.24,0.26,0.22,0.010 
+Deaths,Israel,Israel,2009,0.22,0.24,0.2,0.010 
+Deaths,Israel,Israel,2010,0.21,0.22,0.19,0.008 
+Deaths,Israel,Israel,2011,0.2,0.21,0.18,0.008 
+Deaths,Israel,Israel,2012,0.19,0.21,0.17,0.010 
+Deaths,Israel,Israel,2013,0.18,0.19,0.16,0.008 
+Deaths,Israel,Israel,2014,0.17,0.19,0.16,0.008 
+Deaths,Israel,Israel,2015,0.18,0.19,0.16,0.008 
+Deaths,Israel,Israel,2016,0.17,0.19,0.15,0.010 
+Deaths,Israel,Israel,2017,0.17,0.19,0.16,0.008 
+Deaths,Israel,Israel,2018,0.18,0.2,0.16,0.010 
+Deaths,Israel,Israel,2019,0.18,0.2,0.16,0.010 
+Deaths,Japan,Japan,1990,0.26,0.26,0.25,0.003 
+Deaths,Japan,Japan,1991,0.27,0.27,0.26,0.003 
+Deaths,Japan,Japan,1992,0.27,0.28,0.26,0.005 
+Deaths,Japan,Japan,1993,0.28,0.29,0.27,0.005 
+Deaths,Japan,Japan,1994,0.29,0.3,0.28,0.005 
+Deaths,Japan,Japan,1995,0.31,0.32,0.3,0.005 
+Deaths,Japan,Japan,1996,0.33,0.33,0.31,0.005 
+Deaths,Japan,Japan,1997,0.33,0.34,0.32,0.005 
+Deaths,Japan,Japan,1998,0.35,0.36,0.33,0.008 
+Deaths,Japan,Japan,1999,0.35,0.36,0.34,0.005 
+Deaths,Japan,Japan,2000,0.35,0.36,0.33,0.008 
+Deaths,Japan,Japan,2001,0.34,0.35,0.33,0.005 
+Deaths,Japan,Japan,2002,0.33,0.34,0.32,0.005 
+Deaths,Japan,Japan,2003,0.34,0.35,0.32,0.008 
+Deaths,Japan,Japan,2004,0.33,0.34,0.32,0.005 
+Deaths,Japan,Japan,2005,0.33,0.34,0.31,0.008 
+Deaths,Japan,Japan,2006,0.33,0.34,0.31,0.008 
+Deaths,Japan,Japan,2007,0.32,0.33,0.31,0.005 
+Deaths,Japan,Japan,2008,0.32,0.33,0.3,0.008 
+Deaths,Japan,Japan,2009,0.32,0.33,0.3,0.008 
+Deaths,Japan,Japan,2010,0.32,0.33,0.3,0.008 
+Deaths,Japan,Japan,2011,0.32,0.33,0.3,0.008 
+Deaths,Japan,Japan,2012,0.31,0.32,0.29,0.008 
+Deaths,Japan,Japan,2013,0.3,0.32,0.28,0.010 
+Deaths,Japan,Japan,2014,0.3,0.31,0.28,0.008 
+Deaths,Japan,Japan,2015,0.29,0.31,0.27,0.010 
+Deaths,Japan,Japan,2016,0.29,0.31,0.27,0.010 
+Deaths,Japan,Japan,2017,0.28,0.3,0.26,0.010 
+Deaths,Japan,Japan,2018,0.28,0.3,0.26,0.010 
+Deaths,Japan,Japan,2019,0.28,0.3,0.26,0.010 
+Deaths,Jordan,Jordan,1990,0.89,1.07,0.73,0.087 
+Deaths,Jordan,Jordan,1991,0.88,1.04,0.72,0.082 
+Deaths,Jordan,Jordan,1992,0.87,1.04,0.71,0.084 
+Deaths,Jordan,Jordan,1993,0.88,1.07,0.72,0.089 
+Deaths,Jordan,Jordan,1994,0.89,1.09,0.72,0.094 
+Deaths,Jordan,Jordan,1995,0.9,1.11,0.72,0.099 
+Deaths,Jordan,Jordan,1996,0.9,1.11,0.72,0.099 
+Deaths,Jordan,Jordan,1997,0.88,1.1,0.7,0.102 
+Deaths,Jordan,Jordan,1998,0.87,1.09,0.7,0.099 
+Deaths,Jordan,Jordan,1999,0.85,1.06,0.69,0.094 
+Deaths,Jordan,Jordan,2000,0.83,1.01,0.67,0.087 
+Deaths,Jordan,Jordan,2001,0.82,0.99,0.66,0.084 
+Deaths,Jordan,Jordan,2002,0.79,0.93,0.65,0.071 
+Deaths,Jordan,Jordan,2003,0.74,0.87,0.62,0.064 
+Deaths,Jordan,Jordan,2004,0.7,0.82,0.6,0.056 
+Deaths,Jordan,Jordan,2005,0.69,0.8,0.6,0.051 
+Deaths,Jordan,Jordan,2006,0.69,0.79,0.6,0.048 
+Deaths,Jordan,Jordan,2007,0.66,0.76,0.58,0.046 
+Deaths,Jordan,Jordan,2008,0.62,0.71,0.54,0.043 
+Deaths,Jordan,Jordan,2009,0.59,0.69,0.52,0.043 
+Deaths,Jordan,Jordan,2010,0.57,0.67,0.49,0.046 
+Deaths,Jordan,Jordan,2011,0.55,0.64,0.47,0.043 
+Deaths,Jordan,Jordan,2012,0.52,0.61,0.44,0.043 
+Deaths,Jordan,Jordan,2013,0.49,0.58,0.42,0.041 
+Deaths,Jordan,Jordan,2014,0.46,0.55,0.39,0.041 
+Deaths,Jordan,Jordan,2015,0.44,0.52,0.36,0.041 
+Deaths,Jordan,Jordan,2016,0.44,0.53,0.36,0.043 
+Deaths,Jordan,Jordan,2017,0.44,0.54,0.35,0.048 
+Deaths,Jordan,Jordan,2018,0.44,0.55,0.36,0.048 
+Deaths,Jordan,Jordan,2019,0.44,0.55,0.36,0.048 
+Deaths,Kazakhstan,Kazakhstan,1990,0.42,0.5,0.37,0.033 
+Deaths,Kazakhstan,Kazakhstan,1991,0.44,0.5,0.39,0.028 
+Deaths,Kazakhstan,Kazakhstan,1992,0.46,0.5,0.41,0.023 
+Deaths,Kazakhstan,Kazakhstan,1993,0.48,0.52,0.45,0.018 
+Deaths,Kazakhstan,Kazakhstan,1994,0.5,0.54,0.46,0.020 
+Deaths,Kazakhstan,Kazakhstan,1995,0.5,0.54,0.46,0.020 
+Deaths,Kazakhstan,Kazakhstan,1996,0.47,0.51,0.44,0.018 
+Deaths,Kazakhstan,Kazakhstan,1997,0.46,0.49,0.42,0.018 
+Deaths,Kazakhstan,Kazakhstan,1998,0.43,0.47,0.4,0.018 
+Deaths,Kazakhstan,Kazakhstan,1999,0.42,0.46,0.39,0.018 
+Deaths,Kazakhstan,Kazakhstan,2000,0.42,0.45,0.39,0.015 
+Deaths,Kazakhstan,Kazakhstan,2001,0.42,0.45,0.39,0.015 
+Deaths,Kazakhstan,Kazakhstan,2002,0.42,0.45,0.39,0.015 
+Deaths,Kazakhstan,Kazakhstan,2003,0.42,0.45,0.39,0.015 
+Deaths,Kazakhstan,Kazakhstan,2004,0.41,0.45,0.38,0.018 
+Deaths,Kazakhstan,Kazakhstan,2005,0.42,0.45,0.38,0.018 
+Deaths,Kazakhstan,Kazakhstan,2006,0.42,0.45,0.38,0.018 
+Deaths,Kazakhstan,Kazakhstan,2007,0.41,0.45,0.38,0.018 
+Deaths,Kazakhstan,Kazakhstan,2008,0.41,0.44,0.38,0.015 
+Deaths,Kazakhstan,Kazakhstan,2009,0.41,0.44,0.38,0.015 
+Deaths,Kazakhstan,Kazakhstan,2010,0.42,0.45,0.39,0.015 
+Deaths,Kazakhstan,Kazakhstan,2011,0.43,0.47,0.4,0.018 
+Deaths,Kazakhstan,Kazakhstan,2012,0.45,0.48,0.42,0.015 
+Deaths,Kazakhstan,Kazakhstan,2013,0.47,0.51,0.44,0.018 
+Deaths,Kazakhstan,Kazakhstan,2014,0.48,0.52,0.44,0.020 
+Deaths,Kazakhstan,Kazakhstan,2015,0.48,0.53,0.44,0.023 
+Deaths,Kazakhstan,Kazakhstan,2016,0.47,0.52,0.42,0.026 
+Deaths,Kazakhstan,Kazakhstan,2017,0.47,0.53,0.42,0.028 
+Deaths,Kazakhstan,Kazakhstan,2018,0.45,0.52,0.39,0.033 
+Deaths,Kazakhstan,Kazakhstan,2019,0.44,0.52,0.37,0.038 
+Deaths,Kuwait,Kuwait,1990,0.57,0.64,0.49,0.038 
+Deaths,Kuwait,Kuwait,1991,0.47,0.54,0.41,0.033 
+Deaths,Kuwait,Kuwait,1992,0.42,0.48,0.36,0.031 
+Deaths,Kuwait,Kuwait,1993,0.4,0.46,0.35,0.028 
+Deaths,Kuwait,Kuwait,1994,0.46,0.52,0.41,0.028 
+Deaths,Kuwait,Kuwait,1995,0.45,0.5,0.4,0.026 
+Deaths,Kuwait,Kuwait,1996,0.41,0.46,0.37,0.023 
+Deaths,Kuwait,Kuwait,1997,0.43,0.47,0.38,0.023 
+Deaths,Kuwait,Kuwait,1998,0.4,0.45,0.36,0.023 
+Deaths,Kuwait,Kuwait,1999,0.44,0.5,0.39,0.028 
+Deaths,Kuwait,Kuwait,2000,0.43,0.48,0.38,0.026 
+Deaths,Kuwait,Kuwait,2001,0.32,0.36,0.29,0.018 
+Deaths,Kuwait,Kuwait,2002,0.34,0.38,0.3,0.020 
+Deaths,Kuwait,Kuwait,2003,0.35,0.39,0.31,0.020 
+Deaths,Kuwait,Kuwait,2004,0.37,0.41,0.33,0.020 
+Deaths,Kuwait,Kuwait,2005,0.35,0.39,0.31,0.020 
+Deaths,Kuwait,Kuwait,2006,0.35,0.39,0.31,0.020 
+Deaths,Kuwait,Kuwait,2007,0.32,0.35,0.28,0.018 
+Deaths,Kuwait,Kuwait,2008,0.33,0.37,0.29,0.020 
+Deaths,Kuwait,Kuwait,2009,0.31,0.34,0.27,0.018 
+Deaths,Kuwait,Kuwait,2010,0.26,0.29,0.23,0.015 
+Deaths,Kuwait,Kuwait,2011,0.24,0.27,0.21,0.015 
+Deaths,Kuwait,Kuwait,2012,0.24,0.26,0.21,0.013 
+Deaths,Kuwait,Kuwait,2013,0.22,0.25,0.2,0.013 
+Deaths,Kuwait,Kuwait,2014,0.23,0.27,0.21,0.015 
+Deaths,Kuwait,Kuwait,2015,0.23,0.27,0.2,0.018 
+Deaths,Kuwait,Kuwait,2016,0.24,0.28,0.2,0.020 
+Deaths,Kuwait,Kuwait,2017,0.24,0.29,0.2,0.023 
+Deaths,Kuwait,Kuwait,2018,0.24,0.3,0.19,0.028 
+Deaths,Kuwait,Kuwait,2019,0.24,0.31,0.19,0.031 
+Deaths,Kyrgyzstan,Kyrgyzstan,1990,0.34,0.38,0.3,0.020 
+Deaths,Kyrgyzstan,Kyrgyzstan,1991,0.33,0.37,0.29,0.020 
+Deaths,Kyrgyzstan,Kyrgyzstan,1992,0.32,0.36,0.28,0.020 
+Deaths,Kyrgyzstan,Kyrgyzstan,1993,0.33,0.38,0.28,0.026 
+Deaths,Kyrgyzstan,Kyrgyzstan,1994,0.34,0.4,0.29,0.028 
+Deaths,Kyrgyzstan,Kyrgyzstan,1995,0.34,0.39,0.28,0.028 
+Deaths,Kyrgyzstan,Kyrgyzstan,1996,0.32,0.37,0.28,0.023 
+Deaths,Kyrgyzstan,Kyrgyzstan,1997,0.31,0.35,0.27,0.020 
+Deaths,Kyrgyzstan,Kyrgyzstan,1998,0.3,0.34,0.27,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,1999,0.29,0.33,0.26,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2000,0.29,0.32,0.26,0.015 
+Deaths,Kyrgyzstan,Kyrgyzstan,2001,0.35,0.38,0.31,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2002,0.36,0.39,0.32,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2003,0.36,0.39,0.32,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2004,0.35,0.39,0.32,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2005,0.37,0.41,0.34,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2006,0.39,0.43,0.35,0.020 
+Deaths,Kyrgyzstan,Kyrgyzstan,2007,0.38,0.42,0.34,0.020 
+Deaths,Kyrgyzstan,Kyrgyzstan,2008,0.35,0.39,0.32,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2009,0.36,0.39,0.33,0.015 
+Deaths,Kyrgyzstan,Kyrgyzstan,2010,0.34,0.37,0.31,0.015 
+Deaths,Kyrgyzstan,Kyrgyzstan,2011,0.35,0.39,0.32,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2012,0.35,0.38,0.32,0.015 
+Deaths,Kyrgyzstan,Kyrgyzstan,2013,0.35,0.38,0.32,0.015 
+Deaths,Kyrgyzstan,Kyrgyzstan,2014,0.36,0.4,0.33,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2015,0.38,0.42,0.35,0.018 
+Deaths,Kyrgyzstan,Kyrgyzstan,2016,0.4,0.45,0.36,0.023 
+Deaths,Kyrgyzstan,Kyrgyzstan,2017,0.41,0.46,0.36,0.026 
+Deaths,Kyrgyzstan,Kyrgyzstan,2018,0.39,0.44,0.33,0.028 
+Deaths,Kyrgyzstan,Kyrgyzstan,2019,0.38,0.45,0.32,0.033 
+Deaths,Lao People's Democratic Republic,Laos,1990,2.52,3.32,1.78,0.393 
+Deaths,Lao People's Democratic Republic,Laos,1991,2.5,3.25,1.78,0.375 
+Deaths,Lao People's Democratic Republic,Laos,1992,2.49,3.27,1.77,0.383 
+Deaths,Lao People's Democratic Republic,Laos,1993,2.47,3.21,1.78,0.365 
+Deaths,Lao People's Democratic Republic,Laos,1994,2.45,3.18,1.78,0.357 
+Deaths,Lao People's Democratic Republic,Laos,1995,2.43,3.16,1.78,0.352 
+Deaths,Lao People's Democratic Republic,Laos,1996,2.4,3.11,1.75,0.347 
+Deaths,Lao People's Democratic Republic,Laos,1997,2.36,3.05,1.74,0.334 
+Deaths,Lao People's Democratic Republic,Laos,1998,2.32,2.96,1.74,0.311 
+Deaths,Lao People's Democratic Republic,Laos,1999,2.28,2.88,1.71,0.298 
+Deaths,Lao People's Democratic Republic,Laos,2000,2.21,2.79,1.65,0.291 
+Deaths,Lao People's Democratic Republic,Laos,2001,2.16,2.69,1.61,0.276 
+Deaths,Lao People's Democratic Republic,Laos,2002,2.09,2.61,1.57,0.265 
+Deaths,Lao People's Democratic Republic,Laos,2003,2.03,2.54,1.53,0.258 
+Deaths,Lao People's Democratic Republic,Laos,2004,1.98,2.48,1.5,0.250 
+Deaths,Lao People's Democratic Republic,Laos,2005,1.94,2.44,1.48,0.245 
+Deaths,Lao People's Democratic Republic,Laos,2006,1.91,2.41,1.43,0.250 
+Deaths,Lao People's Democratic Republic,Laos,2007,1.87,2.36,1.41,0.242 
+Deaths,Lao People's Democratic Republic,Laos,2008,1.83,2.32,1.37,0.242 
+Deaths,Lao People's Democratic Republic,Laos,2009,1.8,2.27,1.33,0.240 
+Deaths,Lao People's Democratic Republic,Laos,2010,1.76,2.23,1.29,0.240 
+Deaths,Lao People's Democratic Republic,Laos,2011,1.72,2.2,1.26,0.240 
+Deaths,Lao People's Democratic Republic,Laos,2012,1.7,2.17,1.23,0.240 
+Deaths,Lao People's Democratic Republic,Laos,2013,1.68,2.16,1.21,0.242 
+Deaths,Lao People's Democratic Republic,Laos,2014,1.66,2.15,1.19,0.245 
+Deaths,Lao People's Democratic Republic,Laos,2015,1.65,2.12,1.17,0.242 
+Deaths,Lao People's Democratic Republic,Laos,2016,1.63,2.11,1.17,0.240 
+Deaths,Lao People's Democratic Republic,Laos,2017,1.62,2.1,1.17,0.237 
+Deaths,Lao People's Democratic Republic,Laos,2018,1.61,2.09,1.16,0.237 
+Deaths,Lao People's Democratic Republic,Laos,2019,1.61,2.08,1.15,0.237 
+Deaths,Lebanon,Lebanon,1990,0.69,0.85,0.53,0.082 
+Deaths,Lebanon,Lebanon,1991,0.67,0.83,0.52,0.079 
+Deaths,Lebanon,Lebanon,1992,0.66,0.8,0.52,0.071 
+Deaths,Lebanon,Lebanon,1993,0.65,0.78,0.52,0.066 
+Deaths,Lebanon,Lebanon,1994,0.63,0.74,0.52,0.056 
+Deaths,Lebanon,Lebanon,1995,0.61,0.72,0.51,0.054 
+Deaths,Lebanon,Lebanon,1996,0.6,0.7,0.51,0.048 
+Deaths,Lebanon,Lebanon,1997,0.59,0.69,0.5,0.048 
+Deaths,Lebanon,Lebanon,1998,0.58,0.69,0.49,0.051 
+Deaths,Lebanon,Lebanon,1999,0.56,0.67,0.47,0.051 
+Deaths,Lebanon,Lebanon,2000,0.54,0.65,0.45,0.051 
+Deaths,Lebanon,Lebanon,2001,0.53,0.64,0.43,0.054 
+Deaths,Lebanon,Lebanon,2002,0.51,0.62,0.42,0.051 
+Deaths,Lebanon,Lebanon,2003,0.5,0.6,0.42,0.046 
+Deaths,Lebanon,Lebanon,2004,0.49,0.59,0.41,0.046 
+Deaths,Lebanon,Lebanon,2005,0.49,0.59,0.41,0.046 
+Deaths,Lebanon,Lebanon,2006,0.48,0.59,0.41,0.046 
+Deaths,Lebanon,Lebanon,2007,0.48,0.58,0.4,0.046 
+Deaths,Lebanon,Lebanon,2008,0.47,0.58,0.4,0.046 
+Deaths,Lebanon,Lebanon,2009,0.47,0.59,0.39,0.051 
+Deaths,Lebanon,Lebanon,2010,0.47,0.58,0.38,0.051 
+Deaths,Lebanon,Lebanon,2011,0.47,0.6,0.38,0.056 
+Deaths,Lebanon,Lebanon,2012,0.46,0.59,0.37,0.056 
+Deaths,Lebanon,Lebanon,2013,0.46,0.59,0.37,0.056 
+Deaths,Lebanon,Lebanon,2014,0.46,0.59,0.37,0.056 
+Deaths,Lebanon,Lebanon,2015,0.46,0.59,0.36,0.059 
+Deaths,Lebanon,Lebanon,2016,0.45,0.59,0.36,0.059 
+Deaths,Lebanon,Lebanon,2017,0.45,0.59,0.35,0.061 
+Deaths,Lebanon,Lebanon,2018,0.45,0.59,0.35,0.061 
+Deaths,Lebanon,Lebanon,2019,0.44,0.58,0.34,0.061 
+Deaths,Malaysia,Malaysia,1990,7,7.95,6.02,0.492 
+Deaths,Malaysia,Malaysia,1991,6.82,7.75,5.89,0.474 
+Deaths,Malaysia,Malaysia,1992,6.7,7.59,5.75,0.469 
+Deaths,Malaysia,Malaysia,1993,6.61,7.48,5.69,0.457 
+Deaths,Malaysia,Malaysia,1994,6.57,7.47,5.63,0.469 
+Deaths,Malaysia,Malaysia,1995,6.69,7.5,5.83,0.426 
+Deaths,Malaysia,Malaysia,1996,6.47,7.24,5.69,0.395 
+Deaths,Malaysia,Malaysia,1997,6.24,6.92,5.54,0.352 
+Deaths,Malaysia,Malaysia,1998,5.94,6.56,5.33,0.314 
+Deaths,Malaysia,Malaysia,1999,6.17,6.82,5.5,0.337 
+Deaths,Malaysia,Malaysia,2000,5.71,6.22,5.18,0.265 
+Deaths,Malaysia,Malaysia,2001,5.44,5.89,4.99,0.230 
+Deaths,Malaysia,Malaysia,2002,5.2,5.61,4.82,0.202 
+Deaths,Malaysia,Malaysia,2003,5.09,5.44,4.72,0.184 
+Deaths,Malaysia,Malaysia,2004,4.86,5.21,4.51,0.179 
+Deaths,Malaysia,Malaysia,2005,4.62,4.96,4.29,0.171 
+Deaths,Malaysia,Malaysia,2006,4.43,4.77,4.12,0.166 
+Deaths,Malaysia,Malaysia,2007,4.28,4.59,3.98,0.156 
+Deaths,Malaysia,Malaysia,2008,4.25,4.58,3.92,0.168 
+Deaths,Malaysia,Malaysia,2009,4.21,4.56,3.87,0.176 
+Deaths,Malaysia,Malaysia,2010,4.06,4.48,3.66,0.209 
+Deaths,Malaysia,Malaysia,2011,3.97,4.43,3.57,0.219 
+Deaths,Malaysia,Malaysia,2012,3.95,4.33,3.61,0.184 
+Deaths,Malaysia,Malaysia,2013,3.92,4.36,3.53,0.212 
+Deaths,Malaysia,Malaysia,2014,4.06,4.51,3.68,0.212 
+Deaths,Malaysia,Malaysia,2015,4.18,4.76,3.67,0.278 
+Deaths,Malaysia,Malaysia,2016,4.33,5.1,3.64,0.372 
+Deaths,Malaysia,Malaysia,2017,4.47,5.44,3.61,0.467 
+Deaths,Malaysia,Malaysia,2018,4.6,5.72,3.64,0.531 
+Deaths,Malaysia,Malaysia,2019,4.76,6.08,3.65,0.620 
+Deaths,Maldives,Maldives,1990,0.43,0.55,0.31,0.061 
+Deaths,Maldives,Maldives,1991,0.43,0.55,0.31,0.061 
+Deaths,Maldives,Maldives,1992,0.43,0.55,0.31,0.061 
+Deaths,Maldives,Maldives,1993,0.42,0.54,0.31,0.059 
+Deaths,Maldives,Maldives,1994,0.41,0.52,0.3,0.056 
+Deaths,Maldives,Maldives,1995,0.4,0.5,0.3,0.051 
+Deaths,Maldives,Maldives,1996,0.4,0.5,0.31,0.048 
+Deaths,Maldives,Maldives,1997,0.39,0.48,0.3,0.046 
+Deaths,Maldives,Maldives,1998,0.37,0.45,0.3,0.038 
+Deaths,Maldives,Maldives,1999,0.35,0.41,0.28,0.033 
+Deaths,Maldives,Maldives,2000,0.34,0.4,0.28,0.031 
+Deaths,Maldives,Maldives,2001,0.33,0.38,0.27,0.028 
+Deaths,Maldives,Maldives,2002,0.31,0.36,0.26,0.026 
+Deaths,Maldives,Maldives,2003,0.3,0.34,0.25,0.023 
+Deaths,Maldives,Maldives,2004,0.28,0.33,0.24,0.023 
+Deaths,Maldives,Maldives,2005,0.27,0.31,0.23,0.020 
+Deaths,Maldives,Maldives,2006,0.26,0.3,0.22,0.020 
+Deaths,Maldives,Maldives,2007,0.25,0.29,0.21,0.020 
+Deaths,Maldives,Maldives,2008,0.24,0.27,0.2,0.018 
+Deaths,Maldives,Maldives,2009,0.23,0.26,0.2,0.015 
+Deaths,Maldives,Maldives,2010,0.23,0.26,0.19,0.018 
+Deaths,Maldives,Maldives,2011,0.21,0.24,0.18,0.015 
+Deaths,Maldives,Maldives,2012,0.21,0.24,0.18,0.015 
+Deaths,Maldives,Maldives,2013,0.2,0.23,0.18,0.013 
+Deaths,Maldives,Maldives,2014,0.2,0.23,0.17,0.015 
+Deaths,Maldives,Maldives,2015,0.19,0.22,0.16,0.015 
+Deaths,Maldives,Maldives,2016,0.19,0.23,0.16,0.018 
+Deaths,Maldives,Maldives,2017,0.19,0.23,0.16,0.018 
+Deaths,Maldives,Maldives,2018,0.19,0.23,0.16,0.018 
+Deaths,Maldives,Maldives,2019,0.2,0.24,0.16,0.020 
+Deaths,Mongolia,Mongolia,1990,0.27,0.34,0.22,0.031 
+Deaths,Mongolia,Mongolia,1991,0.28,0.34,0.22,0.031 
+Deaths,Mongolia,Mongolia,1992,0.28,0.35,0.22,0.033 
+Deaths,Mongolia,Mongolia,1993,0.29,0.36,0.23,0.033 
+Deaths,Mongolia,Mongolia,1994,0.29,0.36,0.23,0.033 
+Deaths,Mongolia,Mongolia,1995,0.3,0.37,0.24,0.033 
+Deaths,Mongolia,Mongolia,1996,0.31,0.38,0.24,0.036 
+Deaths,Mongolia,Mongolia,1997,0.31,0.38,0.25,0.033 
+Deaths,Mongolia,Mongolia,1998,0.31,0.38,0.24,0.036 
+Deaths,Mongolia,Mongolia,1999,0.31,0.38,0.25,0.033 
+Deaths,Mongolia,Mongolia,2000,0.32,0.39,0.25,0.036 
+Deaths,Mongolia,Mongolia,2001,0.32,0.4,0.26,0.036 
+Deaths,Mongolia,Mongolia,2002,0.33,0.41,0.26,0.038 
+Deaths,Mongolia,Mongolia,2003,0.33,0.41,0.26,0.038 
+Deaths,Mongolia,Mongolia,2004,0.33,0.41,0.26,0.038 
+Deaths,Mongolia,Mongolia,2005,0.33,0.41,0.26,0.038 
+Deaths,Mongolia,Mongolia,2006,0.33,0.41,0.26,0.038 
+Deaths,Mongolia,Mongolia,2007,0.32,0.4,0.26,0.036 
+Deaths,Mongolia,Mongolia,2008,0.32,0.39,0.25,0.036 
+Deaths,Mongolia,Mongolia,2009,0.32,0.4,0.25,0.038 
+Deaths,Mongolia,Mongolia,2010,0.32,0.4,0.25,0.038 
+Deaths,Mongolia,Mongolia,2011,0.32,0.4,0.25,0.038 
+Deaths,Mongolia,Mongolia,2012,0.31,0.39,0.24,0.038 
+Deaths,Mongolia,Mongolia,2013,0.3,0.38,0.24,0.036 
+Deaths,Mongolia,Mongolia,2014,0.3,0.38,0.23,0.038 
+Deaths,Mongolia,Mongolia,2015,0.29,0.37,0.22,0.038 
+Deaths,Mongolia,Mongolia,2016,0.29,0.38,0.22,0.041 
+Deaths,Mongolia,Mongolia,2017,0.29,0.38,0.22,0.041 
+Deaths,Mongolia,Mongolia,2018,0.29,0.38,0.21,0.043 
+Deaths,Mongolia,Mongolia,2019,0.29,0.37,0.21,0.041 
+Deaths,Myanmar,Myanmar,1990,2.23,2.87,1.63,0.316 
+Deaths,Myanmar,Myanmar,1991,2.23,2.89,1.64,0.319 
+Deaths,Myanmar,Myanmar,1992,2.22,2.89,1.65,0.316 
+Deaths,Myanmar,Myanmar,1993,2.22,2.86,1.62,0.316 
+Deaths,Myanmar,Myanmar,1994,2.2,2.83,1.63,0.306 
+Deaths,Myanmar,Myanmar,1995,2.19,2.8,1.63,0.298 
+Deaths,Myanmar,Myanmar,1996,2.17,2.75,1.62,0.288 
+Deaths,Myanmar,Myanmar,1997,2.15,2.71,1.62,0.278 
+Deaths,Myanmar,Myanmar,1998,2.13,2.67,1.61,0.270 
+Deaths,Myanmar,Myanmar,1999,2.1,2.64,1.59,0.268 
+Deaths,Myanmar,Myanmar,2000,2.07,2.59,1.58,0.258 
+Deaths,Myanmar,Myanmar,2001,2.03,2.52,1.55,0.247 
+Deaths,Myanmar,Myanmar,2002,2,2.49,1.52,0.247 
+Deaths,Myanmar,Myanmar,2003,1.96,2.43,1.5,0.237 
+Deaths,Myanmar,Myanmar,2004,1.93,2.39,1.49,0.230 
+Deaths,Myanmar,Myanmar,2005,1.89,2.33,1.47,0.219 
+Deaths,Myanmar,Myanmar,2006,1.85,2.26,1.45,0.207 
+Deaths,Myanmar,Myanmar,2007,1.79,2.19,1.41,0.199 
+Deaths,Myanmar,Myanmar,2008,1.73,2.12,1.37,0.191 
+Deaths,Myanmar,Myanmar,2009,1.69,2.07,1.33,0.189 
+Deaths,Myanmar,Myanmar,2010,1.64,2,1.31,0.176 
+Deaths,Myanmar,Myanmar,2011,1.6,1.96,1.29,0.171 
+Deaths,Myanmar,Myanmar,2012,1.56,1.89,1.28,0.156 
+Deaths,Myanmar,Myanmar,2013,1.54,1.86,1.26,0.153 
+Deaths,Myanmar,Myanmar,2014,1.51,1.83,1.25,0.148 
+Deaths,Myanmar,Myanmar,2015,1.49,1.81,1.24,0.145 
+Deaths,Myanmar,Myanmar,2016,1.48,1.8,1.22,0.148 
+Deaths,Myanmar,Myanmar,2017,1.46,1.79,1.21,0.148 
+Deaths,Myanmar,Myanmar,2018,1.44,1.77,1.18,0.151 
+Deaths,Myanmar,Myanmar,2019,1.43,1.77,1.17,0.153 
+Deaths,Nepal,Nepal,1990,1.25,1.61,0.94,0.171 
+Deaths,Nepal,Nepal,1991,1.22,1.59,0.93,0.168 
+Deaths,Nepal,Nepal,1992,1.19,1.52,0.91,0.156 
+Deaths,Nepal,Nepal,1993,1.17,1.49,0.9,0.151 
+Deaths,Nepal,Nepal,1994,1.13,1.44,0.88,0.143 
+Deaths,Nepal,Nepal,1995,1.1,1.39,0.86,0.135 
+Deaths,Nepal,Nepal,1996,1.06,1.36,0.83,0.135 
+Deaths,Nepal,Nepal,1997,1.03,1.31,0.81,0.128 
+Deaths,Nepal,Nepal,1998,0.99,1.27,0.79,0.122 
+Deaths,Nepal,Nepal,1999,0.96,1.21,0.77,0.112 
+Deaths,Nepal,Nepal,2000,0.93,1.15,0.76,0.099 
+Deaths,Nepal,Nepal,2001,0.91,1.12,0.74,0.097 
+Deaths,Nepal,Nepal,2002,0.89,1.1,0.72,0.097 
+Deaths,Nepal,Nepal,2003,0.88,1.09,0.71,0.097 
+Deaths,Nepal,Nepal,2004,0.88,1.08,0.7,0.097 
+Deaths,Nepal,Nepal,2005,0.87,1.07,0.7,0.094 
+Deaths,Nepal,Nepal,2006,0.88,1.07,0.7,0.094 
+Deaths,Nepal,Nepal,2007,0.88,1.07,0.7,0.094 
+Deaths,Nepal,Nepal,2008,0.88,1.07,0.71,0.092 
+Deaths,Nepal,Nepal,2009,0.89,1.08,0.71,0.094 
+Deaths,Nepal,Nepal,2010,0.89,1.08,0.72,0.092 
+Deaths,Nepal,Nepal,2011,0.91,1.11,0.73,0.097 
+Deaths,Nepal,Nepal,2012,0.92,1.12,0.73,0.099 
+Deaths,Nepal,Nepal,2013,0.93,1.14,0.74,0.102 
+Deaths,Nepal,Nepal,2014,0.94,1.15,0.74,0.105 
+Deaths,Nepal,Nepal,2015,0.95,1.18,0.75,0.110 
+Deaths,Nepal,Nepal,2016,0.96,1.19,0.75,0.112 
+Deaths,Nepal,Nepal,2017,0.96,1.2,0.75,0.115 
+Deaths,Nepal,Nepal,2018,0.97,1.21,0.74,0.120 
+Deaths,Nepal,Nepal,2019,0.98,1.23,0.73,0.128 
+Deaths,Oman,Oman,1990,0.53,0.7,0.4,0.077 
+Deaths,Oman,Oman,1991,0.53,0.69,0.4,0.074 
+Deaths,Oman,Oman,1992,0.53,0.68,0.41,0.069 
+Deaths,Oman,Oman,1993,0.53,0.67,0.41,0.066 
+Deaths,Oman,Oman,1994,0.53,0.67,0.42,0.064 
+Deaths,Oman,Oman,1995,0.54,0.68,0.43,0.064 
+Deaths,Oman,Oman,1996,0.52,0.65,0.42,0.059 
+Deaths,Oman,Oman,1997,0.51,0.63,0.41,0.056 
+Deaths,Oman,Oman,1998,0.5,0.61,0.4,0.054 
+Deaths,Oman,Oman,1999,0.49,0.59,0.4,0.048 
+Deaths,Oman,Oman,2000,0.46,0.55,0.39,0.041 
+Deaths,Oman,Oman,2001,0.44,0.52,0.37,0.038 
+Deaths,Oman,Oman,2002,0.43,0.5,0.36,0.036 
+Deaths,Oman,Oman,2003,0.41,0.47,0.35,0.031 
+Deaths,Oman,Oman,2004,0.39,0.44,0.34,0.026 
+Deaths,Oman,Oman,2005,0.38,0.43,0.34,0.023 
+Deaths,Oman,Oman,2006,0.36,0.41,0.32,0.023 
+Deaths,Oman,Oman,2007,0.37,0.42,0.33,0.023 
+Deaths,Oman,Oman,2008,0.39,0.43,0.35,0.020 
+Deaths,Oman,Oman,2009,0.39,0.43,0.35,0.020 
+Deaths,Oman,Oman,2010,0.39,0.44,0.35,0.023 
+Deaths,Oman,Oman,2011,0.38,0.43,0.34,0.023 
+Deaths,Oman,Oman,2012,0.37,0.42,0.32,0.026 
+Deaths,Oman,Oman,2013,0.36,0.41,0.31,0.026 
+Deaths,Oman,Oman,2014,0.34,0.4,0.29,0.028 
+Deaths,Oman,Oman,2015,0.34,0.4,0.29,0.028 
+Deaths,Oman,Oman,2016,0.33,0.39,0.28,0.028 
+Deaths,Oman,Oman,2017,0.32,0.38,0.27,0.028 
+Deaths,Oman,Oman,2018,0.3,0.37,0.25,0.031 
+Deaths,Oman,Oman,2019,0.29,0.36,0.23,0.033 
+Deaths,Pakistan,Pakistan,1990,1.42,1.64,1.21,0.110 
+Deaths,Pakistan,Pakistan,1991,1.44,1.66,1.22,0.112 
+Deaths,Pakistan,Pakistan,1992,1.48,1.69,1.26,0.110 
+Deaths,Pakistan,Pakistan,1993,1.51,1.73,1.28,0.115 
+Deaths,Pakistan,Pakistan,1994,1.54,1.78,1.32,0.117 
+Deaths,Pakistan,Pakistan,1995,1.58,1.83,1.34,0.125 
+Deaths,Pakistan,Pakistan,1996,1.61,1.89,1.37,0.133 
+Deaths,Pakistan,Pakistan,1997,1.61,1.88,1.37,0.130 
+Deaths,Pakistan,Pakistan,1998,1.59,1.85,1.36,0.125 
+Deaths,Pakistan,Pakistan,1999,1.56,1.81,1.35,0.117 
+Deaths,Pakistan,Pakistan,2000,1.55,1.79,1.32,0.120 
+Deaths,Pakistan,Pakistan,2001,1.56,1.79,1.35,0.112 
+Deaths,Pakistan,Pakistan,2002,1.56,1.8,1.35,0.115 
+Deaths,Pakistan,Pakistan,2003,1.55,1.8,1.34,0.117 
+Deaths,Pakistan,Pakistan,2004,1.54,1.78,1.33,0.115 
+Deaths,Pakistan,Pakistan,2005,1.53,1.78,1.32,0.117 
+Deaths,Pakistan,Pakistan,2006,1.52,1.77,1.29,0.122 
+Deaths,Pakistan,Pakistan,2007,1.49,1.75,1.27,0.122 
+Deaths,Pakistan,Pakistan,2008,1.48,1.75,1.23,0.133 
+Deaths,Pakistan,Pakistan,2009,1.47,1.74,1.22,0.133 
+Deaths,Pakistan,Pakistan,2010,1.45,1.73,1.2,0.135 
+Deaths,Pakistan,Pakistan,2011,1.43,1.72,1.18,0.138 
+Deaths,Pakistan,Pakistan,2012,1.43,1.72,1.14,0.148 
+Deaths,Pakistan,Pakistan,2013,1.43,1.73,1.14,0.151 
+Deaths,Pakistan,Pakistan,2014,1.42,1.71,1.14,0.145 
+Deaths,Pakistan,Pakistan,2015,1.41,1.73,1.15,0.148 
+Deaths,Pakistan,Pakistan,2016,1.4,1.72,1.13,0.151 
+Deaths,Pakistan,Pakistan,2017,1.38,1.74,1.11,0.161 
+Deaths,Pakistan,Pakistan,2018,1.37,1.71,1.1,0.156 
+Deaths,Pakistan,Pakistan,2019,1.35,1.7,1.08,0.158 
+Deaths,Palestine,Palestine,1990,0.34,0.45,0.24,0.054 
+Deaths,Palestine,Palestine,1991,0.33,0.44,0.24,0.051 
+Deaths,Palestine,Palestine,1992,0.32,0.42,0.23,0.048 
+Deaths,Palestine,Palestine,1993,0.31,0.41,0.23,0.046 
+Deaths,Palestine,Palestine,1994,0.3,0.38,0.22,0.041 
+Deaths,Palestine,Palestine,1995,0.29,0.37,0.22,0.038 
+Deaths,Palestine,Palestine,1996,0.28,0.36,0.22,0.036 
+Deaths,Palestine,Palestine,1997,0.27,0.34,0.22,0.031 
+Deaths,Palestine,Palestine,1998,0.27,0.33,0.22,0.028 
+Deaths,Palestine,Palestine,1999,0.26,0.32,0.22,0.026 
+Deaths,Palestine,Palestine,2000,0.26,0.31,0.22,0.023 
+Deaths,Palestine,Palestine,2001,0.26,0.3,0.22,0.020 
+Deaths,Palestine,Palestine,2002,0.26,0.31,0.23,0.020 
+Deaths,Palestine,Palestine,2003,0.27,0.31,0.23,0.020 
+Deaths,Palestine,Palestine,2004,0.27,0.31,0.23,0.020 
+Deaths,Palestine,Palestine,2005,0.27,0.31,0.24,0.018 
+Deaths,Palestine,Palestine,2006,0.27,0.31,0.24,0.018 
+Deaths,Palestine,Palestine,2007,0.27,0.31,0.24,0.018 
+Deaths,Palestine,Palestine,2008,0.27,0.3,0.23,0.018 
+Deaths,Palestine,Palestine,2009,0.26,0.3,0.23,0.018 
+Deaths,Palestine,Palestine,2010,0.26,0.3,0.23,0.018 
+Deaths,Palestine,Palestine,2011,0.27,0.3,0.23,0.018 
+Deaths,Palestine,Palestine,2012,0.26,0.3,0.23,0.018 
+Deaths,Palestine,Palestine,2013,0.25,0.28,0.22,0.015 
+Deaths,Palestine,Palestine,2014,0.26,0.29,0.22,0.018 
+Deaths,Palestine,Palestine,2015,0.26,0.3,0.23,0.018 
+Deaths,Palestine,Palestine,2016,0.26,0.29,0.22,0.018 
+Deaths,Palestine,Palestine,2017,0.26,0.3,0.22,0.020 
+Deaths,Palestine,Palestine,2018,0.26,0.3,0.22,0.020 
+Deaths,Palestine,Palestine,2019,0.26,0.31,0.21,0.026 
+Deaths,Philippines,Philippines,1990,2.14,2.46,1.82,0.163 
+Deaths,Philippines,Philippines,1991,2.11,2.41,1.81,0.153 
+Deaths,Philippines,Philippines,1992,2.14,2.47,1.84,0.161 
+Deaths,Philippines,Philippines,1993,2.16,2.48,1.85,0.161 
+Deaths,Philippines,Philippines,1994,2.18,2.46,1.87,0.151 
+Deaths,Philippines,Philippines,1995,2.17,2.45,1.87,0.148 
+Deaths,Philippines,Philippines,1996,2.17,2.45,1.91,0.138 
+Deaths,Philippines,Philippines,1997,2.13,2.38,1.87,0.130 
+Deaths,Philippines,Philippines,1998,2.08,2.34,1.85,0.125 
+Deaths,Philippines,Philippines,1999,1.97,2.18,1.76,0.107 
+Deaths,Philippines,Philippines,2000,1.91,2.12,1.72,0.102 
+Deaths,Philippines,Philippines,2001,1.86,2.06,1.7,0.092 
+Deaths,Philippines,Philippines,2002,1.83,2.01,1.68,0.084 
+Deaths,Philippines,Philippines,2003,1.79,1.99,1.61,0.097 
+Deaths,Philippines,Philippines,2004,1.77,1.97,1.62,0.089 
+Deaths,Philippines,Philippines,2005,1.79,1.99,1.63,0.092 
+Deaths,Philippines,Philippines,2006,1.79,1.99,1.65,0.087 
+Deaths,Philippines,Philippines,2007,1.77,1.96,1.62,0.087 
+Deaths,Philippines,Philippines,2008,1.77,1.98,1.64,0.087 
+Deaths,Philippines,Philippines,2009,1.77,1.98,1.62,0.092 
+Deaths,Philippines,Philippines,2010,1.75,1.95,1.6,0.089 
+Deaths,Philippines,Philippines,2011,1.74,1.94,1.6,0.087 
+Deaths,Philippines,Philippines,2012,1.73,1.94,1.57,0.094 
+Deaths,Philippines,Philippines,2013,1.72,1.94,1.56,0.097 
+Deaths,Philippines,Philippines,2014,1.72,1.95,1.54,0.105 
+Deaths,Philippines,Philippines,2015,1.73,1.97,1.54,0.110 
+Deaths,Philippines,Philippines,2016,1.73,2.02,1.49,0.135 
+Deaths,Philippines,Philippines,2017,1.72,2.06,1.43,0.161 
+Deaths,Philippines,Philippines,2018,1.7,2.09,1.41,0.173 
+Deaths,Philippines,Philippines,2019,1.69,2.04,1.38,0.168 
+Deaths,Qatar,Qatar,1990,0.48,0.64,0.37,0.069 
+Deaths,Qatar,Qatar,1991,0.48,0.64,0.36,0.071 
+Deaths,Qatar,Qatar,1992,0.48,0.63,0.37,0.066 
+Deaths,Qatar,Qatar,1993,0.47,0.61,0.37,0.061 
+Deaths,Qatar,Qatar,1994,0.43,0.54,0.33,0.054 
+Deaths,Qatar,Qatar,1995,0.41,0.51,0.32,0.048 
+Deaths,Qatar,Qatar,1996,0.44,0.56,0.34,0.056 
+Deaths,Qatar,Qatar,1997,0.46,0.59,0.36,0.059 
+Deaths,Qatar,Qatar,1998,0.45,0.58,0.36,0.056 
+Deaths,Qatar,Qatar,1999,0.44,0.56,0.35,0.054 
+Deaths,Qatar,Qatar,2000,0.42,0.52,0.33,0.048 
+Deaths,Qatar,Qatar,2001,0.4,0.49,0.32,0.043 
+Deaths,Qatar,Qatar,2002,0.39,0.48,0.32,0.041 
+Deaths,Qatar,Qatar,2003,0.39,0.47,0.32,0.038 
+Deaths,Qatar,Qatar,2004,0.37,0.45,0.3,0.038 
+Deaths,Qatar,Qatar,2005,0.37,0.45,0.3,0.038 
+Deaths,Qatar,Qatar,2006,0.37,0.45,0.3,0.038 
+Deaths,Qatar,Qatar,2007,0.37,0.46,0.3,0.041 
+Deaths,Qatar,Qatar,2008,0.35,0.43,0.29,0.036 
+Deaths,Qatar,Qatar,2009,0.38,0.47,0.31,0.041 
+Deaths,Qatar,Qatar,2010,0.41,0.51,0.33,0.046 
+Deaths,Qatar,Qatar,2011,0.39,0.49,0.31,0.046 
+Deaths,Qatar,Qatar,2012,0.38,0.49,0.3,0.048 
+Deaths,Qatar,Qatar,2013,0.36,0.47,0.29,0.046 
+Deaths,Qatar,Qatar,2014,0.36,0.46,0.28,0.046 
+Deaths,Qatar,Qatar,2015,0.37,0.5,0.28,0.056 
+Deaths,Qatar,Qatar,2016,0.37,0.51,0.27,0.061 
+Deaths,Qatar,Qatar,2017,0.36,0.5,0.25,0.064 
+Deaths,Qatar,Qatar,2018,0.35,0.49,0.25,0.061 
+Deaths,Qatar,Qatar,2019,0.34,0.47,0.24,0.059 
+Deaths,Republic of Korea,South Korea,1990,0.4,0.47,0.34,0.033 
+Deaths,Republic of Korea,South Korea,1991,0.39,0.45,0.33,0.031 
+Deaths,Republic of Korea,South Korea,1992,0.37,0.42,0.32,0.026 
+Deaths,Republic of Korea,South Korea,1993,0.35,0.4,0.31,0.023 
+Deaths,Republic of Korea,South Korea,1994,0.35,0.39,0.31,0.020 
+Deaths,Republic of Korea,South Korea,1995,0.34,0.37,0.3,0.018 
+Deaths,Republic of Korea,South Korea,1996,0.33,0.36,0.3,0.015 
+Deaths,Republic of Korea,South Korea,1997,0.32,0.35,0.3,0.013 
+Deaths,Republic of Korea,South Korea,1998,0.32,0.34,0.29,0.013 
+Deaths,Republic of Korea,South Korea,1999,0.32,0.34,0.29,0.013 
+Deaths,Republic of Korea,South Korea,2000,0.32,0.34,0.29,0.013 
+Deaths,Republic of Korea,South Korea,2001,0.31,0.33,0.29,0.010 
+Deaths,Republic of Korea,South Korea,2002,0.31,0.33,0.29,0.010 
+Deaths,Republic of Korea,South Korea,2003,0.3,0.32,0.28,0.010 
+Deaths,Republic of Korea,South Korea,2004,0.29,0.31,0.27,0.010 
+Deaths,Republic of Korea,South Korea,2005,0.28,0.3,0.26,0.010 
+Deaths,Republic of Korea,South Korea,2006,0.27,0.29,0.25,0.010 
+Deaths,Republic of Korea,South Korea,2007,0.27,0.29,0.25,0.010 
+Deaths,Republic of Korea,South Korea,2008,0.26,0.28,0.25,0.008 
+Deaths,Republic of Korea,South Korea,2009,0.26,0.28,0.24,0.010 
+Deaths,Republic of Korea,South Korea,2010,0.25,0.27,0.24,0.008 
+Deaths,Republic of Korea,South Korea,2011,0.25,0.27,0.23,0.010 
+Deaths,Republic of Korea,South Korea,2012,0.24,0.26,0.23,0.008 
+Deaths,Republic of Korea,South Korea,2013,0.24,0.26,0.23,0.008 
+Deaths,Republic of Korea,South Korea,2014,0.24,0.26,0.22,0.010 
+Deaths,Republic of Korea,South Korea,2015,0.23,0.26,0.21,0.013 
+Deaths,Republic of Korea,South Korea,2016,0.23,0.26,0.21,0.013 
+Deaths,Republic of Korea,South Korea,2017,0.23,0.26,0.21,0.013 
+Deaths,Republic of Korea,South Korea,2018,0.23,0.26,0.2,0.015 
+Deaths,Republic of Korea,South Korea,2019,0.23,0.26,0.2,0.015 
+Deaths,Saudi Arabia,Saudi Arabia,1990,1.3,1.7,0.97,0.186 
+Deaths,Saudi Arabia,Saudi Arabia,1991,1.31,1.69,0.98,0.181 
+Deaths,Saudi Arabia,Saudi Arabia,1992,1.32,1.69,1.01,0.173 
+Deaths,Saudi Arabia,Saudi Arabia,1993,1.34,1.68,1.03,0.166 
+Deaths,Saudi Arabia,Saudi Arabia,1994,1.35,1.66,1.06,0.153 
+Deaths,Saudi Arabia,Saudi Arabia,1995,1.33,1.62,1.07,0.140 
+Deaths,Saudi Arabia,Saudi Arabia,1996,1.32,1.61,1.08,0.135 
+Deaths,Saudi Arabia,Saudi Arabia,1997,1.29,1.55,1.07,0.122 
+Deaths,Saudi Arabia,Saudi Arabia,1998,1.27,1.49,1.06,0.110 
+Deaths,Saudi Arabia,Saudi Arabia,1999,1.24,1.45,1.04,0.105 
+Deaths,Saudi Arabia,Saudi Arabia,2000,1.19,1.39,1.01,0.097 
+Deaths,Saudi Arabia,Saudi Arabia,2001,1.14,1.33,0.97,0.092 
+Deaths,Saudi Arabia,Saudi Arabia,2002,1.09,1.26,0.94,0.082 
+Deaths,Saudi Arabia,Saudi Arabia,2003,1.05,1.2,0.92,0.071 
+Deaths,Saudi Arabia,Saudi Arabia,2004,1.01,1.15,0.89,0.066 
+Deaths,Saudi Arabia,Saudi Arabia,2005,0.98,1.12,0.87,0.064 
+Deaths,Saudi Arabia,Saudi Arabia,2006,0.96,1.09,0.84,0.064 
+Deaths,Saudi Arabia,Saudi Arabia,2007,0.95,1.08,0.84,0.061 
+Deaths,Saudi Arabia,Saudi Arabia,2008,0.96,1.13,0.84,0.074 
+Deaths,Saudi Arabia,Saudi Arabia,2009,0.94,1.1,0.82,0.071 
+Deaths,Saudi Arabia,Saudi Arabia,2010,0.93,1.09,0.81,0.071 
+Deaths,Saudi Arabia,Saudi Arabia,2011,0.91,1.07,0.78,0.074 
+Deaths,Saudi Arabia,Saudi Arabia,2012,0.88,1.04,0.75,0.074 
+Deaths,Saudi Arabia,Saudi Arabia,2013,0.87,1.03,0.74,0.074 
+Deaths,Saudi Arabia,Saudi Arabia,2014,0.86,1.03,0.72,0.079 
+Deaths,Saudi Arabia,Saudi Arabia,2015,0.84,1.01,0.69,0.082 
+Deaths,Saudi Arabia,Saudi Arabia,2016,0.83,1.01,0.67,0.087 
+Deaths,Saudi Arabia,Saudi Arabia,2017,0.82,1.01,0.65,0.092 
+Deaths,Saudi Arabia,Saudi Arabia,2018,0.8,0.99,0.64,0.089 
+Deaths,Saudi Arabia,Saudi Arabia,2019,0.8,1,0.62,0.097 
+Deaths,Singapore,Singapore,1990,5.93,6.33,5.54,0.202 
+Deaths,Singapore,Singapore,1991,5.86,6.24,5.5,0.189 
+Deaths,Singapore,Singapore,1992,5.69,6.04,5.34,0.179 
+Deaths,Singapore,Singapore,1993,5.51,5.86,5.17,0.176 
+Deaths,Singapore,Singapore,1994,5.41,5.76,5.07,0.176 
+Deaths,Singapore,Singapore,1995,5.11,5.46,4.8,0.168 
+Deaths,Singapore,Singapore,1996,5.12,5.47,4.8,0.171 
+Deaths,Singapore,Singapore,1997,4.83,5.14,4.53,0.156 
+Deaths,Singapore,Singapore,1998,4.5,4.79,4.23,0.143 
+Deaths,Singapore,Singapore,1999,4.15,4.43,3.9,0.135 
+Deaths,Singapore,Singapore,2000,3.74,3.99,3.51,0.122 
+Deaths,Singapore,Singapore,2001,3.6,3.83,3.37,0.117 
+Deaths,Singapore,Singapore,2002,3.37,3.6,3.16,0.112 
+Deaths,Singapore,Singapore,2003,3.12,3.34,2.92,0.107 
+Deaths,Singapore,Singapore,2004,2.86,3.05,2.67,0.097 
+Deaths,Singapore,Singapore,2005,2.69,2.87,2.51,0.092 
+Deaths,Singapore,Singapore,2006,2.59,2.76,2.42,0.087 
+Deaths,Singapore,Singapore,2007,2.53,2.71,2.38,0.084 
+Deaths,Singapore,Singapore,2008,2.48,2.65,2.33,0.082 
+Deaths,Singapore,Singapore,2009,2.47,2.63,2.32,0.079 
+Deaths,Singapore,Singapore,2010,2.45,2.61,2.29,0.082 
+Deaths,Singapore,Singapore,2011,2.41,2.57,2.25,0.082 
+Deaths,Singapore,Singapore,2012,2.33,2.48,2.17,0.079 
+Deaths,Singapore,Singapore,2013,2.29,2.46,2.13,0.084 
+Deaths,Singapore,Singapore,2014,2.2,2.37,2.03,0.087 
+Deaths,Singapore,Singapore,2015,2.08,2.25,1.92,0.084 
+Deaths,Singapore,Singapore,2016,1.98,2.17,1.81,0.092 
+Deaths,Singapore,Singapore,2017,1.9,2.13,1.71,0.107 
+Deaths,Singapore,Singapore,2018,1.9,2.15,1.68,0.120 
+Deaths,Singapore,Singapore,2019,1.88,2.16,1.64,0.133 
+Deaths,Sri Lanka,Sri Lanka,1990,1.05,1.2,0.91,0.074 
+Deaths,Sri Lanka,Sri Lanka,1991,1,1.14,0.87,0.069 
+Deaths,Sri Lanka,Sri Lanka,1992,0.98,1.13,0.87,0.066 
+Deaths,Sri Lanka,Sri Lanka,1993,0.96,1.1,0.84,0.066 
+Deaths,Sri Lanka,Sri Lanka,1994,0.97,1.09,0.86,0.059 
+Deaths,Sri Lanka,Sri Lanka,1995,0.98,1.09,0.89,0.051 
+Deaths,Sri Lanka,Sri Lanka,1996,0.99,1.11,0.89,0.056 
+Deaths,Sri Lanka,Sri Lanka,1997,1.02,1.12,0.94,0.046 
+Deaths,Sri Lanka,Sri Lanka,1998,0.98,1.07,0.9,0.043 
+Deaths,Sri Lanka,Sri Lanka,1999,0.97,1.06,0.89,0.043 
+Deaths,Sri Lanka,Sri Lanka,2000,0.96,1.05,0.89,0.041 
+Deaths,Sri Lanka,Sri Lanka,2001,0.9,0.97,0.83,0.036 
+Deaths,Sri Lanka,Sri Lanka,2002,0.85,0.91,0.78,0.033 
+Deaths,Sri Lanka,Sri Lanka,2003,0.82,0.88,0.75,0.033 
+Deaths,Sri Lanka,Sri Lanka,2004,0.84,0.92,0.78,0.036 
+Deaths,Sri Lanka,Sri Lanka,2005,0.85,0.96,0.75,0.054 
+Deaths,Sri Lanka,Sri Lanka,2006,0.92,1.05,0.81,0.061 
+Deaths,Sri Lanka,Sri Lanka,2007,0.95,1.03,0.87,0.041 
+Deaths,Sri Lanka,Sri Lanka,2008,0.99,1.08,0.91,0.043 
+Deaths,Sri Lanka,Sri Lanka,2009,1.03,1.11,0.94,0.043 
+Deaths,Sri Lanka,Sri Lanka,2010,1.03,1.13,0.94,0.048 
+Deaths,Sri Lanka,Sri Lanka,2011,1.02,1.15,0.89,0.066 
+Deaths,Sri Lanka,Sri Lanka,2012,0.99,1.14,0.87,0.069 
+Deaths,Sri Lanka,Sri Lanka,2013,0.95,1.05,0.85,0.051 
+Deaths,Sri Lanka,Sri Lanka,2014,0.93,1.1,0.78,0.082 
+Deaths,Sri Lanka,Sri Lanka,2015,0.89,1.11,0.71,0.102 
+Deaths,Sri Lanka,Sri Lanka,2016,0.88,1.14,0.67,0.120 
+Deaths,Sri Lanka,Sri Lanka,2017,0.86,1.11,0.64,0.120 
+Deaths,Sri Lanka,Sri Lanka,2018,0.83,1.09,0.6,0.125 
+Deaths,Sri Lanka,Sri Lanka,2019,0.81,1.09,0.6,0.125 
+Deaths,Syrian Arab Republic,Syria,1990,0.14,0.17,0.11,0.015 
+Deaths,Syrian Arab Republic,Syria,1991,0.14,0.17,0.11,0.015 
+Deaths,Syrian Arab Republic,Syria,1992,0.15,0.18,0.12,0.015 
+Deaths,Syrian Arab Republic,Syria,1993,0.14,0.17,0.11,0.015 
+Deaths,Syrian Arab Republic,Syria,1994,0.14,0.17,0.11,0.015 
+Deaths,Syrian Arab Republic,Syria,1995,0.14,0.16,0.11,0.013 
+Deaths,Syrian Arab Republic,Syria,1996,0.14,0.16,0.11,0.013 
+Deaths,Syrian Arab Republic,Syria,1997,0.13,0.16,0.11,0.013 
+Deaths,Syrian Arab Republic,Syria,1998,0.13,0.16,0.11,0.013 
+Deaths,Syrian Arab Republic,Syria,1999,0.13,0.15,0.11,0.010 
+Deaths,Syrian Arab Republic,Syria,2000,0.13,0.15,0.11,0.010 
+Deaths,Syrian Arab Republic,Syria,2001,0.13,0.15,0.11,0.010 
+Deaths,Syrian Arab Republic,Syria,2002,0.13,0.15,0.11,0.010 
+Deaths,Syrian Arab Republic,Syria,2003,0.12,0.14,0.11,0.008 
+Deaths,Syrian Arab Republic,Syria,2004,0.13,0.15,0.11,0.010 
+Deaths,Syrian Arab Republic,Syria,2005,0.12,0.14,0.11,0.008 
+Deaths,Syrian Arab Republic,Syria,2006,0.12,0.13,0.1,0.008 
+Deaths,Syrian Arab Republic,Syria,2007,0.12,0.13,0.1,0.008 
+Deaths,Syrian Arab Republic,Syria,2008,0.12,0.14,0.1,0.010 
+Deaths,Syrian Arab Republic,Syria,2009,0.12,0.14,0.1,0.010 
+Deaths,Syrian Arab Republic,Syria,2010,0.12,0.14,0.1,0.010 
+Deaths,Syrian Arab Republic,Syria,2011,0.12,0.14,0.09,0.013 
+Deaths,Syrian Arab Republic,Syria,2012,0.11,0.14,0.09,0.013 
+Deaths,Syrian Arab Republic,Syria,2013,0.12,0.14,0.09,0.013 
+Deaths,Syrian Arab Republic,Syria,2014,0.12,0.14,0.09,0.013 
+Deaths,Syrian Arab Republic,Syria,2015,0.11,0.14,0.09,0.013 
+Deaths,Syrian Arab Republic,Syria,2016,0.12,0.15,0.09,0.015 
+Deaths,Syrian Arab Republic,Syria,2017,0.12,0.15,0.09,0.015 
+Deaths,Syrian Arab Republic,Syria,2018,0.11,0.15,0.09,0.015 
+Deaths,Syrian Arab Republic,Syria,2019,0.11,0.15,0.09,0.015 
+Deaths,Taiwan (Province of China),Taiwan,1990,4.66,4.85,4.49,0.092 
+Deaths,Taiwan (Province of China),Taiwan,1991,4.67,4.88,4.49,0.099 
+Deaths,Taiwan (Province of China),Taiwan,1992,4.73,4.92,4.54,0.097 
+Deaths,Taiwan (Province of China),Taiwan,1993,4.76,4.95,4.56,0.099 
+Deaths,Taiwan (Province of China),Taiwan,1994,4.77,4.96,4.59,0.094 
+Deaths,Taiwan (Province of China),Taiwan,1995,4.75,4.94,4.56,0.097 
+Deaths,Taiwan (Province of China),Taiwan,1996,4.7,4.88,4.5,0.097 
+Deaths,Taiwan (Province of China),Taiwan,1997,4.46,4.64,4.27,0.094 
+Deaths,Taiwan (Province of China),Taiwan,1998,4.24,4.42,4.06,0.092 
+Deaths,Taiwan (Province of China),Taiwan,1999,3.95,4.11,3.78,0.084 
+Deaths,Taiwan (Province of China),Taiwan,2000,3.75,3.9,3.6,0.077 
+Deaths,Taiwan (Province of China),Taiwan,2001,3.46,3.59,3.31,0.071 
+Deaths,Taiwan (Province of China),Taiwan,2002,2.79,2.91,2.68,0.059 
+Deaths,Taiwan (Province of China),Taiwan,2003,3.16,3.29,3.04,0.064 
+Deaths,Taiwan (Province of China),Taiwan,2004,3.23,3.36,3.1,0.066 
+Deaths,Taiwan (Province of China),Taiwan,2005,3.23,3.38,3.09,0.074 
+Deaths,Taiwan (Province of China),Taiwan,2006,3.11,3.25,2.98,0.069 
+Deaths,Taiwan (Province of China),Taiwan,2007,3.01,3.15,2.87,0.071 
+Deaths,Taiwan (Province of China),Taiwan,2008,2.91,3.06,2.78,0.071 
+Deaths,Taiwan (Province of China),Taiwan,2009,2.76,2.91,2.62,0.074 
+Deaths,Taiwan (Province of China),Taiwan,2010,2.67,2.82,2.52,0.077 
+Deaths,Taiwan (Province of China),Taiwan,2011,2.68,2.83,2.54,0.074 
+Deaths,Taiwan (Province of China),Taiwan,2012,2.57,2.72,2.43,0.074 
+Deaths,Taiwan (Province of China),Taiwan,2013,2.47,2.63,2.32,0.079 
+Deaths,Taiwan (Province of China),Taiwan,2014,2.46,2.62,2.31,0.079 
+Deaths,Taiwan (Province of China),Taiwan,2015,2.39,2.57,2.24,0.084 
+Deaths,Taiwan (Province of China),Taiwan,2016,2.4,2.58,2.22,0.092 
+Deaths,Taiwan (Province of China),Taiwan,2017,2.42,2.8,2.07,0.186 
+Deaths,Taiwan (Province of China),Taiwan,2018,2.43,3.03,1.9,0.288 
+Deaths,Taiwan (Province of China),Taiwan,2019,2.43,3.2,1.85,0.344 
+Deaths,Tajikistan,Tajikistan,1990,0.57,0.74,0.46,0.071 
+Deaths,Tajikistan,Tajikistan,1991,0.59,0.74,0.47,0.069 
+Deaths,Tajikistan,Tajikistan,1992,0.62,0.77,0.5,0.069 
+Deaths,Tajikistan,Tajikistan,1993,0.64,0.79,0.52,0.069 
+Deaths,Tajikistan,Tajikistan,1994,0.66,0.79,0.56,0.059 
+Deaths,Tajikistan,Tajikistan,1995,0.65,0.77,0.54,0.059 
+Deaths,Tajikistan,Tajikistan,1996,0.63,0.77,0.52,0.064 
+Deaths,Tajikistan,Tajikistan,1997,0.62,0.77,0.51,0.066 
+Deaths,Tajikistan,Tajikistan,1998,0.61,0.76,0.49,0.069 
+Deaths,Tajikistan,Tajikistan,1999,0.6,0.74,0.49,0.064 
+Deaths,Tajikistan,Tajikistan,2000,0.59,0.74,0.48,0.066 
+Deaths,Tajikistan,Tajikistan,2001,0.59,0.73,0.48,0.064 
+Deaths,Tajikistan,Tajikistan,2002,0.59,0.72,0.49,0.059 
+Deaths,Tajikistan,Tajikistan,2003,0.59,0.72,0.49,0.059 
+Deaths,Tajikistan,Tajikistan,2004,0.59,0.7,0.49,0.054 
+Deaths,Tajikistan,Tajikistan,2005,0.6,0.71,0.5,0.054 
+Deaths,Tajikistan,Tajikistan,2006,0.61,0.72,0.51,0.054 
+Deaths,Tajikistan,Tajikistan,2007,0.61,0.71,0.52,0.048 
+Deaths,Tajikistan,Tajikistan,2008,0.61,0.71,0.52,0.048 
+Deaths,Tajikistan,Tajikistan,2009,0.61,0.72,0.51,0.054 
+Deaths,Tajikistan,Tajikistan,2010,0.61,0.72,0.52,0.051 
+Deaths,Tajikistan,Tajikistan,2011,0.61,0.72,0.52,0.051 
+Deaths,Tajikistan,Tajikistan,2012,0.61,0.71,0.53,0.046 
+Deaths,Tajikistan,Tajikistan,2013,0.6,0.7,0.53,0.043 
+Deaths,Tajikistan,Tajikistan,2014,0.61,0.7,0.53,0.043 
+Deaths,Tajikistan,Tajikistan,2015,0.61,0.69,0.53,0.041 
+Deaths,Tajikistan,Tajikistan,2016,0.62,0.71,0.53,0.046 
+Deaths,Tajikistan,Tajikistan,2017,0.61,0.72,0.51,0.054 
+Deaths,Tajikistan,Tajikistan,2018,0.59,0.71,0.47,0.061 
+Deaths,Tajikistan,Tajikistan,2019,0.58,0.71,0.46,0.064 
+Deaths,Thailand,Thailand,1990,1.51,1.72,1.3,0.107 
+Deaths,Thailand,Thailand,1991,1.53,1.76,1.34,0.107 
+Deaths,Thailand,Thailand,1992,1.54,1.76,1.34,0.107 
+Deaths,Thailand,Thailand,1993,1.54,1.77,1.35,0.107 
+Deaths,Thailand,Thailand,1994,1.55,1.77,1.35,0.107 
+Deaths,Thailand,Thailand,1995,1.54,1.77,1.35,0.107 
+Deaths,Thailand,Thailand,1996,1.52,1.79,1.3,0.125 
+Deaths,Thailand,Thailand,1997,1.39,1.7,1.13,0.145 
+Deaths,Thailand,Thailand,1998,1.37,1.68,1.11,0.145 
+Deaths,Thailand,Thailand,1999,1.39,1.65,1.19,0.117 
+Deaths,Thailand,Thailand,2000,1.35,1.6,1.14,0.117 
+Deaths,Thailand,Thailand,2001,1.25,1.49,1.02,0.120 
+Deaths,Thailand,Thailand,2002,1.23,1.44,1.04,0.102 
+Deaths,Thailand,Thailand,2003,1.18,1.36,1.03,0.084 
+Deaths,Thailand,Thailand,2004,1.23,1.42,1.07,0.089 
+Deaths,Thailand,Thailand,2005,1.26,1.49,1.08,0.105 
+Deaths,Thailand,Thailand,2006,1.28,1.5,1.09,0.105 
+Deaths,Thailand,Thailand,2007,1.29,1.48,1.11,0.094 
+Deaths,Thailand,Thailand,2008,1.28,1.47,1.12,0.089 
+Deaths,Thailand,Thailand,2009,1.27,1.46,1.1,0.092 
+Deaths,Thailand,Thailand,2010,1.27,1.47,1.09,0.097 
+Deaths,Thailand,Thailand,2011,1.25,1.44,1.08,0.092 
+Deaths,Thailand,Thailand,2012,1.22,1.4,1.04,0.092 
+Deaths,Thailand,Thailand,2013,1.18,1.37,1.02,0.089 
+Deaths,Thailand,Thailand,2014,1.18,1.38,1.02,0.092 
+Deaths,Thailand,Thailand,2015,1.18,1.37,1.02,0.089 
+Deaths,Thailand,Thailand,2016,1.2,1.41,1.01,0.102 
+Deaths,Thailand,Thailand,2017,1.18,1.46,0.91,0.140 
+Deaths,Thailand,Thailand,2018,1.17,1.51,0.88,0.161 
+Deaths,Thailand,Thailand,2019,1.16,1.55,0.84,0.181 
+Deaths,Timor-Leste,East Timor,1990,1.61,2.12,1.19,0.237 
+Deaths,Timor-Leste,East Timor,1991,1.59,2.04,1.18,0.219 
+Deaths,Timor-Leste,East Timor,1992,1.59,2.05,1.19,0.219 
+Deaths,Timor-Leste,East Timor,1993,1.58,2.05,1.19,0.219 
+Deaths,Timor-Leste,East Timor,1994,1.56,2.03,1.13,0.230 
+Deaths,Timor-Leste,East Timor,1995,1.54,2,1.1,0.230 
+Deaths,Timor-Leste,East Timor,1996,1.51,1.98,1.04,0.240 
+Deaths,Timor-Leste,East Timor,1997,1.46,1.93,0.99,0.240 
+Deaths,Timor-Leste,East Timor,1998,1.47,1.91,0.98,0.237 
+Deaths,Timor-Leste,East Timor,1999,1.46,1.91,0.99,0.235 
+Deaths,Timor-Leste,East Timor,2000,1.46,1.9,0.97,0.237 
+Deaths,Timor-Leste,East Timor,2001,1.43,1.85,0.94,0.232 
+Deaths,Timor-Leste,East Timor,2002,1.4,1.83,0.93,0.230 
+Deaths,Timor-Leste,East Timor,2003,1.41,1.83,0.94,0.227 
+Deaths,Timor-Leste,East Timor,2004,1.37,1.76,0.92,0.214 
+Deaths,Timor-Leste,East Timor,2005,1.34,1.74,0.9,0.214 
+Deaths,Timor-Leste,East Timor,2006,1.31,1.71,0.86,0.217 
+Deaths,Timor-Leste,East Timor,2007,1.3,1.73,0.87,0.219 
+Deaths,Timor-Leste,East Timor,2008,1.27,1.71,0.85,0.219 
+Deaths,Timor-Leste,East Timor,2009,1.31,1.78,0.86,0.235 
+Deaths,Timor-Leste,East Timor,2010,1.32,1.81,0.86,0.242 
+Deaths,Timor-Leste,East Timor,2011,1.37,1.9,0.9,0.255 
+Deaths,Timor-Leste,East Timor,2012,1.41,1.96,0.92,0.265 
+Deaths,Timor-Leste,East Timor,2013,1.43,1.96,0.93,0.263 
+Deaths,Timor-Leste,East Timor,2014,1.45,1.97,0.96,0.258 
+Deaths,Timor-Leste,East Timor,2015,1.45,2.01,0.97,0.265 
+Deaths,Timor-Leste,East Timor,2016,1.46,2.01,1,0.258 
+Deaths,Timor-Leste,East Timor,2017,1.47,2.01,1.03,0.250 
+Deaths,Timor-Leste,East Timor,2018,1.49,2.04,1.03,0.258 
+Deaths,Timor-Leste,East Timor,2019,1.52,2.06,1.05,0.258 
+Deaths,Turkey,Turkey,1990,0.87,1.04,0.7,0.087 
+Deaths,Turkey,Turkey,1991,0.87,1.04,0.71,0.084 
+Deaths,Turkey,Turkey,1992,0.86,1.03,0.71,0.082 
+Deaths,Turkey,Turkey,1993,0.86,1.01,0.71,0.077 
+Deaths,Turkey,Turkey,1994,0.86,1.01,0.71,0.077 
+Deaths,Turkey,Turkey,1995,0.85,1,0.71,0.074 
+Deaths,Turkey,Turkey,1996,0.83,0.98,0.7,0.071 
+Deaths,Turkey,Turkey,1997,0.82,0.97,0.69,0.071 
+Deaths,Turkey,Turkey,1998,0.8,0.96,0.67,0.074 
+Deaths,Turkey,Turkey,1999,0.77,0.91,0.65,0.066 
+Deaths,Turkey,Turkey,2000,0.73,0.86,0.61,0.064 
+Deaths,Turkey,Turkey,2001,0.71,0.83,0.6,0.059 
+Deaths,Turkey,Turkey,2002,0.7,0.82,0.59,0.059 
+Deaths,Turkey,Turkey,2003,0.68,0.79,0.57,0.056 
+Deaths,Turkey,Turkey,2004,0.66,0.77,0.55,0.056 
+Deaths,Turkey,Turkey,2005,0.63,0.74,0.53,0.054 
+Deaths,Turkey,Turkey,2006,0.6,0.7,0.52,0.046 
+Deaths,Turkey,Turkey,2007,0.58,0.67,0.5,0.043 
+Deaths,Turkey,Turkey,2008,0.56,0.65,0.49,0.041 
+Deaths,Turkey,Turkey,2009,0.56,0.65,0.49,0.041 
+Deaths,Turkey,Turkey,2010,0.56,0.63,0.49,0.036 
+Deaths,Turkey,Turkey,2011,0.54,0.61,0.48,0.033 
+Deaths,Turkey,Turkey,2012,0.52,0.59,0.47,0.031 
+Deaths,Turkey,Turkey,2013,0.51,0.57,0.45,0.031 
+Deaths,Turkey,Turkey,2014,0.5,0.56,0.44,0.031 
+Deaths,Turkey,Turkey,2015,0.49,0.55,0.43,0.031 
+Deaths,Turkey,Turkey,2016,0.48,0.55,0.41,0.036 
+Deaths,Turkey,Turkey,2017,0.47,0.56,0.39,0.043 
+Deaths,Turkey,Turkey,2018,0.46,0.57,0.37,0.051 
+Deaths,Turkey,Turkey,2019,0.46,0.57,0.36,0.054 
+Deaths,Turkmenistan,Turkmenistan,1990,0.27,0.3,0.25,0.013 
+Deaths,Turkmenistan,Turkmenistan,1991,0.28,0.31,0.26,0.013 
+Deaths,Turkmenistan,Turkmenistan,1992,0.28,0.3,0.26,0.010 
+Deaths,Turkmenistan,Turkmenistan,1993,0.32,0.34,0.29,0.013 
+Deaths,Turkmenistan,Turkmenistan,1994,0.31,0.34,0.29,0.013 
+Deaths,Turkmenistan,Turkmenistan,1995,0.31,0.33,0.28,0.013 
+Deaths,Turkmenistan,Turkmenistan,1996,0.31,0.34,0.28,0.015 
+Deaths,Turkmenistan,Turkmenistan,1997,0.3,0.33,0.28,0.013 
+Deaths,Turkmenistan,Turkmenistan,1998,0.3,0.32,0.27,0.013 
+Deaths,Turkmenistan,Turkmenistan,1999,0.28,0.31,0.26,0.013 
+Deaths,Turkmenistan,Turkmenistan,2000,0.28,0.3,0.26,0.010 
+Deaths,Turkmenistan,Turkmenistan,2001,0.27,0.29,0.25,0.010 
+Deaths,Turkmenistan,Turkmenistan,2002,0.29,0.31,0.27,0.010 
+Deaths,Turkmenistan,Turkmenistan,2003,0.3,0.32,0.28,0.010 
+Deaths,Turkmenistan,Turkmenistan,2004,0.31,0.33,0.29,0.010 
+Deaths,Turkmenistan,Turkmenistan,2005,0.34,0.37,0.31,0.015 
+Deaths,Turkmenistan,Turkmenistan,2006,0.34,0.37,0.32,0.013 
+Deaths,Turkmenistan,Turkmenistan,2007,0.36,0.39,0.34,0.013 
+Deaths,Turkmenistan,Turkmenistan,2008,0.37,0.4,0.34,0.015 
+Deaths,Turkmenistan,Turkmenistan,2009,0.36,0.39,0.34,0.013 
+Deaths,Turkmenistan,Turkmenistan,2010,0.36,0.39,0.33,0.015 
+Deaths,Turkmenistan,Turkmenistan,2011,0.4,0.43,0.37,0.015 
+Deaths,Turkmenistan,Turkmenistan,2012,0.4,0.43,0.37,0.015 
+Deaths,Turkmenistan,Turkmenistan,2013,0.39,0.42,0.36,0.015 
+Deaths,Turkmenistan,Turkmenistan,2014,0.4,0.43,0.37,0.015 
+Deaths,Turkmenistan,Turkmenistan,2015,0.4,0.45,0.36,0.023 
+Deaths,Turkmenistan,Turkmenistan,2016,0.39,0.45,0.34,0.028 
+Deaths,Turkmenistan,Turkmenistan,2017,0.38,0.45,0.32,0.033 
+Deaths,Turkmenistan,Turkmenistan,2018,0.38,0.47,0.31,0.041 
+Deaths,Turkmenistan,Turkmenistan,2019,0.37,0.47,0.3,0.043 
+Deaths,United Arab Emirates,United Arab Emirates,1990,0.64,0.83,0.42,0.105 
+Deaths,United Arab Emirates,United Arab Emirates,1991,0.64,0.83,0.42,0.105 
+Deaths,United Arab Emirates,United Arab Emirates,1992,0.64,0.83,0.43,0.102 
+Deaths,United Arab Emirates,United Arab Emirates,1993,0.65,0.83,0.43,0.102 
+Deaths,United Arab Emirates,United Arab Emirates,1994,0.66,0.85,0.45,0.102 
+Deaths,United Arab Emirates,United Arab Emirates,1995,0.66,0.84,0.45,0.099 
+Deaths,United Arab Emirates,United Arab Emirates,1996,0.65,0.84,0.44,0.102 
+Deaths,United Arab Emirates,United Arab Emirates,1997,0.64,0.83,0.43,0.102 
+Deaths,United Arab Emirates,United Arab Emirates,1998,0.63,0.81,0.43,0.097 
+Deaths,United Arab Emirates,United Arab Emirates,1999,0.62,0.81,0.42,0.099 
+Deaths,United Arab Emirates,United Arab Emirates,2000,0.62,0.81,0.43,0.097 
+Deaths,United Arab Emirates,United Arab Emirates,2001,0.6,0.78,0.42,0.092 
+Deaths,United Arab Emirates,United Arab Emirates,2002,0.59,0.76,0.41,0.089 
+Deaths,United Arab Emirates,United Arab Emirates,2003,0.58,0.75,0.41,0.087 
+Deaths,United Arab Emirates,United Arab Emirates,2004,0.58,0.76,0.4,0.092 
+Deaths,United Arab Emirates,United Arab Emirates,2005,0.57,0.76,0.4,0.092 
+Deaths,United Arab Emirates,United Arab Emirates,2006,0.56,0.74,0.39,0.089 
+Deaths,United Arab Emirates,United Arab Emirates,2007,0.54,0.71,0.37,0.087 
+Deaths,United Arab Emirates,United Arab Emirates,2008,0.53,0.71,0.36,0.089 
+Deaths,United Arab Emirates,United Arab Emirates,2009,0.52,0.72,0.35,0.094 
+Deaths,United Arab Emirates,United Arab Emirates,2010,0.51,0.72,0.35,0.094 
+Deaths,United Arab Emirates,United Arab Emirates,2011,0.51,0.71,0.34,0.094 
+Deaths,United Arab Emirates,United Arab Emirates,2012,0.5,0.7,0.34,0.092 
+Deaths,United Arab Emirates,United Arab Emirates,2013,0.48,0.68,0.33,0.089 
+Deaths,United Arab Emirates,United Arab Emirates,2014,0.45,0.63,0.31,0.082 
+Deaths,United Arab Emirates,United Arab Emirates,2015,0.44,0.62,0.3,0.082 
+Deaths,United Arab Emirates,United Arab Emirates,2016,0.43,0.62,0.3,0.082 
+Deaths,United Arab Emirates,United Arab Emirates,2017,0.43,0.6,0.3,0.077 
+Deaths,United Arab Emirates,United Arab Emirates,2018,0.42,0.59,0.3,0.074 
+Deaths,United Arab Emirates,United Arab Emirates,2019,0.41,0.6,0.29,0.079 
+Deaths,Uzbekistan,Uzbekistan,1990,0.34,0.46,0.27,0.048 
+Deaths,Uzbekistan,Uzbekistan,1991,0.35,0.46,0.28,0.046 
+Deaths,Uzbekistan,Uzbekistan,1992,0.36,0.47,0.3,0.043 
+Deaths,Uzbekistan,Uzbekistan,1993,0.39,0.48,0.33,0.038 
+Deaths,Uzbekistan,Uzbekistan,1994,0.41,0.49,0.35,0.036 
+Deaths,Uzbekistan,Uzbekistan,1995,0.43,0.5,0.37,0.033 
+Deaths,Uzbekistan,Uzbekistan,1996,0.44,0.51,0.39,0.031 
+Deaths,Uzbekistan,Uzbekistan,1997,0.44,0.5,0.39,0.028 
+Deaths,Uzbekistan,Uzbekistan,1998,0.44,0.49,0.39,0.026 
+Deaths,Uzbekistan,Uzbekistan,1999,0.44,0.49,0.4,0.023 
+Deaths,Uzbekistan,Uzbekistan,2000,0.46,0.5,0.42,0.020 
+Deaths,Uzbekistan,Uzbekistan,2001,0.47,0.51,0.43,0.020 
+Deaths,Uzbekistan,Uzbekistan,2002,0.48,0.52,0.44,0.020 
+Deaths,Uzbekistan,Uzbekistan,2003,0.49,0.53,0.45,0.020 
+Deaths,Uzbekistan,Uzbekistan,2004,0.51,0.55,0.47,0.020 
+Deaths,Uzbekistan,Uzbekistan,2005,0.53,0.57,0.48,0.023 
+Deaths,Uzbekistan,Uzbekistan,2006,0.53,0.58,0.47,0.028 
+Deaths,Uzbekistan,Uzbekistan,2007,0.53,0.58,0.47,0.028 
+Deaths,Uzbekistan,Uzbekistan,2008,0.52,0.58,0.47,0.028 
+Deaths,Uzbekistan,Uzbekistan,2009,0.51,0.55,0.47,0.020 
+Deaths,Uzbekistan,Uzbekistan,2010,0.52,0.56,0.48,0.020 
+Deaths,Uzbekistan,Uzbekistan,2011,0.54,0.58,0.5,0.020 
+Deaths,Uzbekistan,Uzbekistan,2012,0.56,0.6,0.52,0.020 
+Deaths,Uzbekistan,Uzbekistan,2013,0.58,0.62,0.54,0.020 
+Deaths,Uzbekistan,Uzbekistan,2014,0.58,0.62,0.54,0.020 
+Deaths,Uzbekistan,Uzbekistan,2015,0.59,0.64,0.55,0.023 
+Deaths,Uzbekistan,Uzbekistan,2016,0.59,0.64,0.54,0.026 
+Deaths,Uzbekistan,Uzbekistan,2017,0.57,0.64,0.51,0.033 
+Deaths,Uzbekistan,Uzbekistan,2018,0.56,0.65,0.48,0.043 
+Deaths,Uzbekistan,Uzbekistan,2019,0.55,0.66,0.45,0.054 
+Deaths,Viet Nam,Vietnam,1990,3.35,4.18,2.61,0.401 
+Deaths,Viet Nam,Vietnam,1991,3.34,4.15,2.62,0.390 
+Deaths,Viet Nam,Vietnam,1992,3.34,4.11,2.64,0.375 
+Deaths,Viet Nam,Vietnam,1993,3.25,4.04,2.57,0.375 
+Deaths,Viet Nam,Vietnam,1994,3.18,3.92,2.53,0.355 
+Deaths,Viet Nam,Vietnam,1995,3.12,3.82,2.5,0.337 
+Deaths,Viet Nam,Vietnam,1996,3.02,3.67,2.46,0.309 
+Deaths,Viet Nam,Vietnam,1997,3.02,3.65,2.5,0.293 
+Deaths,Viet Nam,Vietnam,1998,3,3.62,2.48,0.291 
+Deaths,Viet Nam,Vietnam,1999,2.99,3.57,2.48,0.278 
+Deaths,Viet Nam,Vietnam,2000,2.97,3.54,2.46,0.276 
+Deaths,Viet Nam,Vietnam,2001,2.96,3.52,2.45,0.273 
+Deaths,Viet Nam,Vietnam,2002,2.95,3.53,2.44,0.278 
+Deaths,Viet Nam,Vietnam,2003,2.94,3.54,2.42,0.286 
+Deaths,Viet Nam,Vietnam,2004,2.93,3.52,2.43,0.278 
+Deaths,Viet Nam,Vietnam,2005,2.93,3.47,2.45,0.260 
+Deaths,Viet Nam,Vietnam,2006,2.9,3.41,2.45,0.245 
+Deaths,Viet Nam,Vietnam,2007,2.9,3.44,2.46,0.250 
+Deaths,Viet Nam,Vietnam,2008,2.88,3.41,2.44,0.247 
+Deaths,Viet Nam,Vietnam,2009,2.87,3.37,2.43,0.240 
+Deaths,Viet Nam,Vietnam,2010,2.83,3.35,2.4,0.242 
+Deaths,Viet Nam,Vietnam,2011,2.83,3.35,2.38,0.247 
+Deaths,Viet Nam,Vietnam,2012,2.81,3.36,2.35,0.258 
+Deaths,Viet Nam,Vietnam,2013,2.81,3.37,2.31,0.270 
+Deaths,Viet Nam,Vietnam,2014,2.81,3.39,2.29,0.281 
+Deaths,Viet Nam,Vietnam,2015,2.79,3.4,2.27,0.288 
+Deaths,Viet Nam,Vietnam,2016,2.78,3.43,2.24,0.304 
+Deaths,Viet Nam,Vietnam,2017,2.76,3.44,2.21,0.314 
+Deaths,Viet Nam,Vietnam,2018,2.75,3.45,2.16,0.329 
+Deaths,Viet Nam,Vietnam,2019,2.73,3.46,2.13,0.339 
+Deaths,Yemen,Yemen,1990,0.52,0.71,0.36,0.089 
+Deaths,Yemen,Yemen,1991,0.51,0.69,0.35,0.087 
+Deaths,Yemen,Yemen,1992,0.5,0.69,0.34,0.089 
+Deaths,Yemen,Yemen,1993,0.5,0.68,0.34,0.087 
+Deaths,Yemen,Yemen,1994,0.49,0.68,0.34,0.087 
+Deaths,Yemen,Yemen,1995,0.48,0.67,0.33,0.087 
+Deaths,Yemen,Yemen,1996,0.48,0.66,0.33,0.084 
+Deaths,Yemen,Yemen,1997,0.47,0.64,0.33,0.079 
+Deaths,Yemen,Yemen,1998,0.46,0.62,0.32,0.077 
+Deaths,Yemen,Yemen,1999,0.46,0.62,0.32,0.077 
+Deaths,Yemen,Yemen,2000,0.45,0.62,0.32,0.077 
+Deaths,Yemen,Yemen,2001,0.44,0.61,0.31,0.077 
+Deaths,Yemen,Yemen,2002,0.44,0.59,0.31,0.071 
+Deaths,Yemen,Yemen,2003,0.43,0.59,0.3,0.074 
+Deaths,Yemen,Yemen,2004,0.43,0.58,0.3,0.071 
+Deaths,Yemen,Yemen,2005,0.42,0.56,0.3,0.066 
+Deaths,Yemen,Yemen,2006,0.42,0.55,0.3,0.064 
+Deaths,Yemen,Yemen,2007,0.41,0.54,0.3,0.061 
+Deaths,Yemen,Yemen,2008,0.41,0.54,0.3,0.061 
+Deaths,Yemen,Yemen,2009,0.4,0.53,0.3,0.059 
+Deaths,Yemen,Yemen,2010,0.39,0.53,0.29,0.061 
+Deaths,Yemen,Yemen,2011,0.39,0.52,0.29,0.059 
+Deaths,Yemen,Yemen,2012,0.38,0.51,0.29,0.056 
+Deaths,Yemen,Yemen,2013,0.38,0.51,0.29,0.056 
+Deaths,Yemen,Yemen,2014,0.38,0.51,0.29,0.056 
+Deaths,Yemen,Yemen,2015,0.38,0.51,0.29,0.056 
+Deaths,Yemen,Yemen,2016,0.38,0.51,0.29,0.056 
+Deaths,Yemen,Yemen,2017,0.38,0.52,0.29,0.059 
+Deaths,Yemen,Yemen,2018,0.39,0.53,0.29,0.061 
+Deaths,Yemen,Yemen,2019,0.39,0.53,0.29,0.061 
+Deaths,Asia,Asia,1990,1.95,2.13,1.76,0.094 
+Deaths,Asia,Asia,1991,1.94,2.12,1.77,0.089 
+Deaths,Asia,Asia,1992,1.9,2.06,1.74,0.082 
+Deaths,Asia,Asia,1993,1.88,2.02,1.73,0.074 
+Deaths,Asia,Asia,1994,1.84,1.97,1.7,0.069 
+Deaths,Asia,Asia,1995,1.8,1.93,1.69,0.061 
+Deaths,Asia,Asia,1996,1.77,1.88,1.65,0.059 
+Deaths,Asia,Asia,1997,1.75,1.85,1.64,0.054 
+Deaths,Asia,Asia,1998,1.73,1.83,1.62,0.054 
+Deaths,Asia,Asia,1999,1.7,1.81,1.59,0.056 
+Deaths,Asia,Asia,2000,1.66,1.77,1.56,0.054 
+Deaths,Asia,Asia,2001,1.61,1.71,1.5,0.054 
+Deaths,Asia,Asia,2002,1.55,1.66,1.46,0.051 
+Deaths,Asia,Asia,2003,1.5,1.6,1.41,0.048 
+Deaths,Asia,Asia,2004,1.46,1.56,1.37,0.048 
+Deaths,Asia,Asia,2005,1.43,1.54,1.34,0.051 
+Deaths,Asia,Asia,2006,1.39,1.48,1.32,0.041 
+Deaths,Asia,Asia,2007,1.37,1.46,1.29,0.043 
+Deaths,Asia,Asia,2008,1.35,1.43,1.27,0.041 
+Deaths,Asia,Asia,2009,1.32,1.4,1.24,0.041 
+Deaths,Asia,Asia,2010,1.31,1.4,1.23,0.043 
+Deaths,Asia,Asia,2011,1.29,1.38,1.2,0.046 
+Deaths,Asia,Asia,2012,1.26,1.36,1.18,0.046 
+Deaths,Asia,Asia,2013,1.24,1.34,1.16,0.046 
+Deaths,Asia,Asia,2014,1.23,1.31,1.14,0.043 
+Deaths,Asia,Asia,2015,1.22,1.31,1.13,0.046 
+Deaths,Asia,Asia,2016,1.21,1.32,1.12,0.051 
+Deaths,Asia,Asia,2017,1.2,1.3,1.1,0.051 
+Deaths,Asia,Asia,2018,1.19,1.31,1.08,0.059 
+Deaths,Asia,Asia,2019,1.18,1.3,1.07,0.059 
