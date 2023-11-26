@@ -1,14 +1,10 @@
 library(ggplot2)
 data <- read.table("clipboard", sep = '\t', header = T)
 
-# Set 'countries' as a factor and sort by AAPC
 data$countries <- factor(data$countries, levels = data$countries[order(data$aapc)])
 
-# Define colors
-# Use a specific yellow color for 'Asia', pinkish for positive AAPC, and bluish for negative AAPC
 asia_color <- ifelse(data$countries == "Asia", "#fce681", ifelse(data$aapc > 0, "#f5b0a5", "#75bfcf"))
 
-# Create a horizontal bar chart
 p <- ggplot(data, aes(x = countries, y = aapc, fill = asia_color)) + 
   geom_bar(stat = 'identity', position = position_dodge(width = 0.6), width = 0.5) + 
   geom_errorbar(aes(ymin = lower, ymax = upper), width = 0.2, position = position_dodge(width = 0.6)) + 
